@@ -21,7 +21,7 @@ http://hnsefpop.top:8080/951735992399641/b1fd3429430e/57282
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5633
 #EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ES | CINE & SERIES",ES: SOMOS
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5730
-#EXTINF:-1 tvg-id="DARK HD" tvg-name="ES: DARK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="ES | CINE & SERIES",ES: DARK
+#EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="ES | CINE & SERIES",ES: DARK
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/25930
 #EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ES: HOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="ES | CINE & SERIES",ES: HOLLYWOOD
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5619
@@ -37,21 +37,21 @@ http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5557
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5558
 #EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="ES: STAR CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png" group-title="ES | CINE & SERIES",ES: STAR CHANNEL
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5613
-#EXTINF:-1 tvg-id="Sundance TV HD" tvg-name="ES: SUNDANCE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Sundance.png" group-title="ES | CINE & SERIES",ES: SUNDANCE
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="ES: SUNDANCE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Sundance.png" group-title="ES | CINE & SERIES",ES: SUNDANCE
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5731
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="ES: AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | CINE & SERIES",ES: AMC
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5553
-#EXTINF:-1 tvg-id="es.TCM" tvg-name="ES: TCM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="ES | CINE & SERIES",ES: TCM
+#EXTINF:-1 tvg-id="TCM" tvg-name="ES: TCM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="ES | CINE & SERIES",ES: TCM
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5733
-#EXTINF:-1 tvg-id="XTRM HD" tvg-name="ES: XTRM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="ES | CINE & SERIES",ES: XTRM
+#EXTINF:-1 tvg-id="XTRM" tvg-name="ES: XTRM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="ES | CINE & SERIES",ES: XTRM
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5751
 #EXTINF:-1 tvg-id="Cosmo HD" tvg-name="ES: COSMO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/COSMO.png" group-title="ES | CINE & SERIES",ES: COSMO
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5585
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="ES: COMEDY CENTRAL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png" group-title="ES | CINE & SERIES",ES: COMEDY CENTRAL
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5584
-#EXTINF:-1 tvg-id="Squirrel 2 HD" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ES | CINE & SERIES",ES: SQUIRREL 2 
+#EXTINF:-1 tvg-id="Squirrel 2" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ES | CINE & SERIES",ES: SQUIRREL 2 
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5727
-#EXTINF:-1 tvg-id="VinTV HD" tvg-name="ES: ENFAMILIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Enfamila.png" group-title="ES | CINE & SERIES",ES: VIN TV
+#EXTINF:-1 tvg-id="VinTV" tvg-name="ES: ENFAMILIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Enfamila.png" group-title="ES | CINE & SERIES",ES: VIN TV
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5726
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ DOCUMENTALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ES | DOCUMENTALES",ES: M+ DOCUMENTALES
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/57284
@@ -73,9 +73,9 @@ http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5564
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/25926
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC CRIME" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="ES | DOCUMENTALES",ES: AMC CRIME
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/25927
-#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="ES: CANAL DECASA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ES | HOGAR",ES: CANAL DECASA
+#EXTINF:-1 tvg-id="AMC Living HD" tvg-name="ES: CANAL DECASA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ES | HOGAR",ES: CANAL DECASA
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5571
-#EXTINF:-1 tvg-id="0" tvg-name="ES: CANAL COCINA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png" group-title="ES | HOGAR",ES: CANAL COCINA
+#EXTINF:-1 tvg-id="Canal Cocina HD" tvg-name="ES: CANAL COCINA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png" group-title="ES | HOGAR",ES: CANAL COCINA
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5570
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ BUEN VIAJE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BuenViaje.png" group-title="ES | HOGAR",ES: M+ BUEN VIAJE
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/57259
