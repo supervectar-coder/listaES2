@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Movistar Plus" tvg-name="Movistar Plus" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | CINE & SERIES",ES: M+ PLUS
+#EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="Movistar Plus" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | CINE & SERIES",ES: M+ PLUS
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/57285
 #EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ Originales" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="ES | CINE & SERIES",ES: M+ ORIGINALES
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/57283
-#EXTINF:-1 tvg-id="M+ Estrenos" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | CINE & SERIES",ES: M+ ESTRENOS
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | CINE & SERIES",ES: M+ ESTRENOS
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/58330
-#EXTINF:-1 tvg-id="M+ Hits" tvg-name="ES: M+ HITS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="ES | CINE & SERIES",ES: M+ HITS
+#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="ES: M+ HITS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="ES | CINE & SERIES",ES: M+ HITS
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5675
-#EXTINF:-1 tvg-id="M+ Acción" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE & SERIES",ES: M+ ACCIÓN
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE & SERIES",ES: M+ ACCIÓN
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5632
-#EXTINF:-1 tvg-id="M+ Comedia" tvg-name="ES: M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | CINE & SERIES",ES: M+ COMEDIA
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="ES: M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | CINE & SERIES",ES: M+ COMEDIA
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5636
-#EXTINF:-1 tvg-id="M+ Drama" tvg-name="ES: M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | CINE & SERIES",ES: M+ DRAMA
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="ES: M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | CINE & SERIES",ES: M+ DRAMA
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5644
-#EXTINF:-1 tvg-id="M+ Clásicos" tvg-name="ES: M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | CINE & SERIES",ES: M+ CLÁSICOS
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="ES: M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | CINE & SERIES",ES: M+ CLÁSICOS
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/5634
 #EXTINF:-1 tvg-id="M+ Indie" tvg-name="ES: M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | CINE & SERIES",ES: M+ INDIE
 http://hnsefpop.top:8080/951735992399641/b1fd3429430e/57282
