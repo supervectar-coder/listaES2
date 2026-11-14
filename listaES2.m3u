@@ -43,13 +43,13 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/77070
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77124
 #EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ES | CINE Y SERIES",ES: SOMOS FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77087
-#EXTINF:-1 tvg-id="Canal FlixOlé 1 HD" tvg-name="ES: CANAL FLIXOLE 1 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 1 HD
+#EXTINF:-1 tvg-id="Canal FlixOlé 1" tvg-name="ES: CANAL FLIXOLE 1 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 1 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77134
-#EXTINF:-1 tvg-id="Canal FlixOlé 1 HD" tvg-name="ES: CANAL FLIXOLE 1 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 1 FHD
+#EXTINF:-1 tvg-id="Canal FlixOlé 1" tvg-name="ES: CANAL FLIXOLE 1 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 1 FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77098
-#EXTINF:-1 tvg-id="Canal FlixOlé 2 HD" tvg-name="ES: CANAL FLIXOLE 2 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 2 HD
+#EXTINF:-1 tvg-id="Canal FlixOlé 2" tvg-name="ES: CANAL FLIXOLE 2 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 2 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77135
-#EXTINF:-1 tvg-id="Canal FlixOlé 2 HD" tvg-name="ES: CANAL FLIXOLE 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 2 FHD
+#EXTINF:-1 tvg-id="Canal FlixOlé 2" tvg-name="ES: CANAL FLIXOLE 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 2 FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77099
 #EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="ES | CINE Y SERIES",ES: DARK HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77121
@@ -136,7 +136,7 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/77137
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77222
 #EXTINF:-1 tvg-id="AMC Living" tvg-name="ES: CANAL DECASA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ES | ESTILO DE VIDA",ES: CANAL DECASA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77213
-#EXTINF:-1 tvg-id="Dviaje HD" tvg-name="ES: M+ BUEN VIAJE HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dviaje.png" group-title="ES | ESTILO DE VIDA",ES: D VIAJE HD
+#EXTINF:-1 tvg-id="Dviaje" tvg-name="ES: M+ BUEN VIAJE HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dviaje.png" group-title="ES | ESTILO DE VIDA",ES: D VIAJE HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77223
 #EXTINF:-1 tvg-id="Dviaje" tvg-name="ES: M+ BUEN VIAJE FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dviaje.png" group-title="ES | ESTILO DE VIDA",ES: D VIAJE FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77214
@@ -380,9 +380,9 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/77078
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76803
 #EXTINF:-1 tvg-id="sexta.movistarplus.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | GENERALISTAS",ES: LA SEXTA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76784
-#EXTINF:-1 tvg-id="La Séptima HD" tvg-name="ES: La Septima SD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima SD
+#EXTINF:-1 tvg-id="La Séptima" tvg-name="ES: La Septima SD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima SD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/78574
-#EXTINF:-1 tvg-id="La Séptima HD" tvg-name="ES: La Septima HD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima HD
+#EXTINF:-1 tvg-id="La Séptima" tvg-name="ES: La Septima HD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/78573
 #EXTINF:-1 tvg-id="La Séptima" tvg-name="ES: La Septima FHD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/78572
