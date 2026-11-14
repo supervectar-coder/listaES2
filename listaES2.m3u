@@ -43,13 +43,13 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/77070
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77124
 #EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ES | CINE Y SERIES",ES: SOMOS FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77087
-#EXTINF:-1 tvg-id="flix1.movistarplus.es" tvg-name="ES: CANAL FLIXOLE 1 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 1 HD
+#EXTINF:-1 tvg-id="Canal FlixOlé 1 HD" tvg-name="ES: CANAL FLIXOLE 1 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 1 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77134
-#EXTINF:-1 tvg-id="flix1.movistarplus.es" tvg-name="ES: CANAL FLIXOLE 1 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 1 FHD
+#EXTINF:-1 tvg-id="Canal FlixOlé 1" tvg-name="ES: CANAL FLIXOLE 1 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 1 FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77098
-#EXTINF:-1 tvg-id="flix2.movistarplus.es" tvg-name="ES: CANAL FLIXOLE 2 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 2 HD
+#EXTINF:-1 tvg-id="Canal FlixOlé 2 HD" tvg-name="ES: CANAL FLIXOLE 2 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 2 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77135
-#EXTINF:-1 tvg-id="flix2.movistarplus.es" tvg-name="ES: CANAL FLIXOLE 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 2 FHD
+#EXTINF:-1 tvg-id="Canal FlixOlé 2" tvg-name="ES: CANAL FLIXOLE 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 2 FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77099
 #EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="ES | CINE Y SERIES",ES: DARK HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77121
@@ -59,9 +59,9 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/77084
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77117
 #EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="ES | CINE Y SERIES",ES: HOLLYWOOD FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77080
-#EXTINF:-1 tvg-id="SyFy" tvg-name="ES: SYFY HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="ES | CINE Y SERIES",ES: SYFY HD
+#EXTINF:-1 tvg-id="SciFi HD" tvg-name="ES: SYFY HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="ES | CINE Y SERIES",ES: SYFY HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77110
-#EXTINF:-1 tvg-id="syfy HD" tvg-name="ES: SYFY FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="ES | CINE Y SERIES",ES: SYFY FHD
+#EXTINF:-1 tvg-id="SciFi" tvg-name="ES: SYFY FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="ES | CINE Y SERIES",ES: SYFY FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77073
 #EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="ES: CALLE 13 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="ES | CINE Y SERIES",ES: CALLE 13 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77108
@@ -127,12 +127,16 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/77092
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77129
 #EXTINF:-1 tvg-id="morgul.movistarplus.es" tvg-name="ES: M+ TOP COMEDIA ESPANOLA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_TOP_COMEDIA_ESPANOLA.png" group-title="ES | CINE Y SERIES",ES: M+ TOP COMEDIA ESPANOLA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77093
+#EXTINF:-1 tvg-id="freeli.movistarplus.es" tvg-name="ES: M+ CERO HD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_CERO.png" group-title="ES | CINE Y SERIES",ES: M+ CERO HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/77157
+#EXTINF:-1 tvg-id="freeli.movistarplus.es" tvg-name="ES: M+ CERO FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_CERO.png" group-title="ES | CINE Y SERIES",ES: M+ CERO FHD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/77137
 
 #EXTINF:-1 tvg-id="AMC Living" tvg-name="ES: CANAL DECASA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ES | ESTILO DE VIDA",ES: CANAL DECASA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77222
 #EXTINF:-1 tvg-id="AMC Living" tvg-name="ES: CANAL DECASA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ES | ESTILO DE VIDA",ES: CANAL DECASA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77213
-#EXTINF:-1 tvg-id="BUEN VIAJE HD" tvg-name="ES: M+ BUEN VIAJE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BuenViaje.png" group-title="ES | ESTILO DE VIDA",ES: M+ BUEN VIAJE HD
+#EXTINF:-1 tvg-id="Dviaje HD" tvg-name="ES: M+ BUEN VIAJE HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dviaje.png" group-title="ES | ESTILO DE VIDA",ES: M+ BUEN VIAJE HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77223
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ BUEN VIAJE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BuenViaje.png" group-title="ES | ESTILO DE VIDA",ES: M+ BUEN VIAJE FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77214
@@ -144,9 +148,9 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/77212
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77209
 #EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="ES: MTV ESPANA HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/MTV_ESPANA.png" group-title="ES | ESTILO DE VIDA",ES: MTV ESPANA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77218
-#EXTINF:-1 tvg-id="SELEKT HD" tvg-name="ES: SELEKT HD" tvg-logo="https://docdog.top/logo/countries/new/es/SELEKT.png" group-title="ES | ESTILO DE VIDA",ES: SELEKT HD
+#EXTINF:-1 tvg-id="AMC Selekt TV HD" tvg-name="ES: SELEKT HD" tvg-logo="https://docdog.top/logo/countries/new/es/SELEKT.png" group-title="ES | ESTILO DE VIDA",ES: SELEKT HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77167
-#EXTINF:-1 tvg-id="selekt" tvg-name="ES: SELEKT FHD" tvg-logo="https://docdog.top/logo/countries/es/SELEKT.png" group-title="ES | ESTILO DE VIDA",ES: SELEKT FHD
+#EXTINF:-1 tvg-id="AMC Selekt TV" tvg-name="ES: SELEKT FHD" tvg-logo="https://docdog.top/logo/countries/es/SELEKT.png" group-title="ES | ESTILO DE VIDA",ES: SELEKT FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77147
 #EXTINF:-1 tvg-id="AMC BREAK" tvg-name="ES: AMC BREAK HD" tvg-logo="https://docdog.top/logo/countries/new/es/AMC_BREAK.png" group-title="ES | ESTILO DE VIDA",ES: AMC BREAK HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77166
@@ -165,10 +169,6 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/77176
 #EXTINF:-1 tvg-id="bbclif.movistarplus.es" tvg-name="ES: BBC LIFESTYLE FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_LIFESTYLE.png" group-title="ES | ESTILO DE VIDA",ES: BBC LIFESTYLE FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77156
 
-#EXTINF:-1 tvg-id="freeli.movistarplus.es" tvg-name="ES: M+ CERO HD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_CERO.png" group-title="ES | DOCUMENTALES",ES: M+ CERO HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/77157
-#EXTINF:-1 tvg-id="freeli.movistarplus.es" tvg-name="ES: M+ CERO FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_CERO.png" group-title="ES | DOCUMENTALES",ES: M+ CERO FHD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/77137
 #EXTINF:-1 tvg-id="mdoc.movistarplus.es" tvg-name="ES: M+ DOCUMENTALES HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ES | DOCUMENTALES",ES: M+ DOCUMENTALES HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77158
 #EXTINF:-1 tvg-id="mdoc.movistarplus.es" tvg-name="ES: M+ DOCUMENTALES FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ES | DOCUMENTALES",ES: M+ DOCUMENTALES FHD
@@ -197,9 +197,9 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/77141
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77164
 #EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ES: ODISEA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="ES | DOCUMENTALES",ES: ODISEA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77144
-#EXTINF:-1 tvg-id="maxava.movistarplus.es" tvg-name="ES: MAX AVANCES HD" tvg-logo="https://docdog.top/logo/countries/new/es/MAX_AVANCES.png" group-title="ES | DOCUMENTALES",ES: MAX AVANCES HD
+#EXTINF:-1 tvg-id="HBO Max Avances HD" tvg-name="ES: MAX AVANCES HD" tvg-logo="https://docdog.top/logo/countries/new/es/MAX_AVANCES.png" group-title="ES | DOCUMENTALES",ES: MAX AVANCES HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77130
-#EXTINF:-1 tvg-id="maxava.movistarplus.es" tvg-name="ES: MAX AVANCES FHD" tvg-logo="https://docdog.top/logo/countries/new/es/MAX_AVANCES.png" group-title="ES | DOCUMENTALES",ES: MAX AVANCES FHD
+#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="ES: MAX AVANCES FHD" tvg-logo="https://docdog.top/logo/countries/new/es/MAX_AVANCES.png" group-title="ES | DOCUMENTALES",ES: MAX AVANCES FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77094
 #EXTINF:-1 tvg-id="bbhis.movistarplus.es" tvg-name="ES: BBC HISTORY HD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_HISTORY.png" group-title="ES | DOCUMENTALES",ES: BBC HISTORY HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77174
@@ -380,11 +380,11 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/77078
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76803
 #EXTINF:-1 tvg-id="sexta.movistarplus.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | GENERALISTAS",ES: LA SEXTA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76784
-#EXTINF:-1 tvg-id="" tvg-name="ES: La Septima SD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima SD
+#EXTINF:-1 tvg-id="La Séptima HD" tvg-name="ES: La Septima SD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima SD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/78574
-#EXTINF:-1 tvg-id="" tvg-name="ES: La Septima HD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima HD
+#EXTINF:-1 tvg-id="La Séptima HD" tvg-name="ES: La Septima HD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/78573
-#EXTINF:-1 tvg-id="" tvg-name="ES: La Septima FHD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima FHD
+#EXTINF:-1 tvg-id="La Séptima" tvg-name="ES: La Septima FHD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/78572
 #EXTINF:-1 tvg-id="TEN" tvg-name="ES: TEN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ten.png" group-title="ES | GENERALISTAS",ES: TEN HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77219
@@ -456,9 +456,9 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/76816
 #EXTINF:-1 tvg-id="ewtn.movistarplus.es" tvg-name="ES: EWTN FHD" tvg-logo="https://docdog.top/logo/countries/new/es/EWTN.png" group-title="ES | AUTONOMICOS",ES: EWTN FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76798
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: EL GARAGE TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/EL_GARAGE_TV.png" group-title="ES | OTROS",ES: EL GARAGE TV HD
+#EXTINF:-1 tvg-id="Garage TV HD" tvg-name="ES: EL GARAGE TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/EL_GARAGE_TV.png" group-title="ES | OTROS",ES: EL GARAGE TV HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77168
-#EXTINF:-1 tvg-id="" tvg-name="ES: EL GARAGE TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/EL_GARAGE_TV.png" group-title="ES | OTROS",ES: EL GARAGE TV FHD
+#EXTINF:-1 tvg-id="Garage TV" tvg-name="ES: EL GARAGE TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/EL_GARAGE_TV.png" group-title="ES | OTROS",ES: EL GARAGE TV FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77148
 #EXTINF:-1 tvg-id="Gametoon" tvg-name="ES: GAMETOON HD" tvg-logo="https://docdog.top/logo/countries/new/es/GAMETOON.png" group-title="ES | VIDEOJUEGOS",ES: GAMETOON HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77133
