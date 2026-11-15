@@ -1,469 +1,666 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="ES: MOVISTAR PLUS+ HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | CINE Y SERIES",ES: MOVISTAR PLUS+ HD
+#EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="ES: MOVISTAR PLUS+ HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | M+ CINE Y SERIES",ES: MOVISTAR PLUS+ HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76814
-#EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="ES: MOVISTAR PLUS+ FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | CINE Y SERIES",ES: MOVISTAR PLUS+ FHD
+#EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="ES: MOVISTAR PLUS+ FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | M+ CINE Y SERIES",ES: MOVISTAR PLUS+ FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76795
-#EXTINF:-1 tvg-id="morig.movistarplus.es" tvg-name="ES: M+ ORIGINALES HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="ES | CINE Y SERIES",ES: M+ ORIGINALES HD
+#EXTINF:-1 tvg-id="morig.movistarplus.es" tvg-name="ES: M+ ORIGINALES HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="ES | M+ CINE Y SERIES",ES: M+ ORIGINALES HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77120
-#EXTINF:-1 tvg-id="morig.movistarplus.es" tvg-name="ES: M+ ORIGINALES FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="ES | CINE Y SERIES",ES: M+ ORIGINALES FHD
+#EXTINF:-1 tvg-id="morig.movistarplus.es" tvg-name="ES: M+ ORIGINALES FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="ES | M+ CINE Y SERIES",ES: M+ ORIGINALES FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77083
-#EXTINF:-1 tvg-id="mv1.movistarplus.es" tvg-name="ES: M+ ESTRENOS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | CINE Y SERIES",ES: M+ ESTRENOS HD
+#EXTINF:-1 tvg-id="mv1.movistarplus.es" tvg-name="ES: M+ ESTRENOS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | M+ CINE Y SERIES",ES: M+ ESTRENOS HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77100
-#EXTINF:-1 tvg-id="mv1.movistarplus.es" tvg-name="ES: M+ ESTRENOS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | CINE Y SERIES",ES: M+ ESTRENOS FHD
+#EXTINF:-1 tvg-id="mv1.movistarplus.es" tvg-name="ES: M+ ESTRENOS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | M+ CINE Y SERIES",ES: M+ ESTRENOS FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77063
-#EXTINF:-1 tvg-id="mhits.movistarplus.es" tvg-name="ES: M+ HITS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="ES | CINE Y SERIES",ES: M+ HITS HD
+#EXTINF:-1 tvg-id="mhits.movistarplus.es" tvg-name="ES: M+ HITS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="ES | M+ CINE Y SERIES",ES: M+ HITS HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77101
-#EXTINF:-1 tvg-id="mhits.movistarplus.es" tvg-name="ES: M+ HITS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="ES | CINE Y SERIES",ES: M+ HITS FHD
+#EXTINF:-1 tvg-id="mhits.movistarplus.es" tvg-name="ES: M+ HITS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="ES | M+ CINE Y SERIES",ES: M+ HITS FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77064
-#EXTINF:-1 tvg-id="mclas.movistarplus.es" tvg-name="ES: M+ CLÁSICOS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | CINE Y SERIES",ES: M+ CLÁSICOS HD
+#EXTINF:-1 tvg-id="mclas.movistarplus.es" tvg-name="ES: M+ CLÁSICOS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | M+ CINE Y SERIES",ES: M+ CLÁSICOS HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77102
-#EXTINF:-1 tvg-id="mclas.movistarplus.es" tvg-name="ES: M+ CLÁSICOS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | CINE Y SERIES",ES: M+ CLÁSICOS FHD
+#EXTINF:-1 tvg-id="mclas.movistarplus.es" tvg-name="ES: M+ CLÁSICOS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | M+ CINE Y SERIES",ES: M+ CLÁSICOS FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77065
-#EXTINF:-1 tvg-id="cpacci.movistarplus.es" tvg-name="ES: M+ ACCIÓN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE Y SERIES",ES: M+ ACCIÓN HD
+#EXTINF:-1 tvg-id="cpacci.movistarplus.es" tvg-name="ES: M+ ACCIÓN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | M+ CINE Y SERIES",ES: M+ ACCIÓN HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77103
-#EXTINF:-1 tvg-id="cpacci.movistarplus.es" tvg-name="ES: M+ ACCIÓN FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE Y SERIES",ES: M+ ACCIÓN FHD
+#EXTINF:-1 tvg-id="cpacci.movistarplus.es" tvg-name="ES: M+ ACCIÓN FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | M+ CINE Y SERIES",ES: M+ ACCIÓN FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77066
-#EXTINF:-1 tvg-id="cpcome.movistarplus.es" tvg-name="ES: M+ COMEDIA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | CINE Y SERIES",ES: M+ COMEDIA HD
+#EXTINF:-1 tvg-id="cpcome.movistarplus.es" tvg-name="ES: M+ COMEDIA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | M+ CINE Y SERIES",ES: M+ COMEDIA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77104
-#EXTINF:-1 tvg-id="cpcome.movistarplus.es" tvg-name="ES: M+ COMEDIA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | CINE Y SERIES",ES: M+ COMEDIA FHD
+#EXTINF:-1 tvg-id="cpcome.movistarplus.es" tvg-name="ES: M+ COMEDIA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | M+ CINE Y SERIES",ES: M+ COMEDIA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77067
-#EXTINF:-1 tvg-id="cpcole.movistarplus.es" tvg-name="ES: M+ DRAMA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | CINE Y SERIES",ES: M+ DRAMA HD
+#EXTINF:-1 tvg-id="cpcole.movistarplus.es" tvg-name="ES: M+ DRAMA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | M+ CINE Y SERIES",ES: M+ DRAMA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77105
-#EXTINF:-1 tvg-id="cpcole.movistarplus.es" tvg-name="ES: M+ DRAMA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | CINE Y SERIES",ES: M+ DRAMA FHD
+#EXTINF:-1 tvg-id="cpcole.movistarplus.es" tvg-name="ES: M+ DRAMA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | M+ CINE Y SERIES",ES: M+ DRAMA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77068
-#EXTINF:-1 tvg-id="mindi.movistarplus.es" tvg-name="ES: M+ INDIE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | CINE Y SERIES",ES: M+ INDIE HD
+#EXTINF:-1 tvg-id="mindi.movistarplus.es" tvg-name="ES: M+ INDIE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | M+ CINE Y SERIES",ES: M+ INDIE HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77106
-#EXTINF:-1 tvg-id="mindi.movistarplus.es" tvg-name="ES: M+ INDIE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | CINE Y SERIES",ES: M+ INDIE FHD
+#EXTINF:-1 tvg-id="mindi.movistarplus.es" tvg-name="ES: M+ INDIE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | M+ CINE Y SERIES",ES: M+ INDIE FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77069
-#EXTINF:-1 tvg-id="dcesp.movistarplus.es" tvg-name="ES: M+ CINE ESPAÑOL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ES | CINE Y SERIES",ES: M+ CINE ESPAÑOL HD
+#EXTINF:-1 tvg-id="dcesp.movistarplus.es" tvg-name="ES: M+ CINE ESPAÑOL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ES | M+ CINE Y SERIES",ES: M+ CINE ESPAÑOL HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77107
-#EXTINF:-1 tvg-id="dcesp.movistarplus.es" tvg-name="ES: M+ CINE ESPAÑOL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ES | CINE Y SERIES",ES: M+ CINE ESPAÑOL FHD
+#EXTINF:-1 tvg-id="dcesp.movistarplus.es" tvg-name="ES: M+ CINE ESPAÑOL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ES | M+ CINE Y SERIES",ES: M+ CINE ESPAÑOL FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77070
-#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ES | CINE Y SERIES",ES: SOMOS HD
+#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ES | M+ CINE Y SERIES",ES: SOMOS HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77124
-#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ES | CINE Y SERIES",ES: SOMOS FHD
+#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ES | M+ CINE Y SERIES",ES: SOMOS FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77087
-#EXTINF:-1 tvg-id="Canal FlixOlé 1" tvg-name="ES: CANAL FLIXOLE 1 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 1 HD
+#EXTINF:-1 tvg-id="Canal FlixOlé 1" tvg-name="ES: CANAL FLIXOLE 1 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="ES | M+ CINE Y SERIES",ES: CANAL FLIXOLE 1 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77134
-#EXTINF:-1 tvg-id="Canal FlixOlé 1" tvg-name="ES: CANAL FLIXOLE 1 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 1 FHD
+#EXTINF:-1 tvg-id="Canal FlixOlé 1" tvg-name="ES: CANAL FLIXOLE 1 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="ES | M+ CINE Y SERIES",ES: CANAL FLIXOLE 1 FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77098
-#EXTINF:-1 tvg-id="Canal FlixOlé 2" tvg-name="ES: CANAL FLIXOLE 2 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 2 HD
+#EXTINF:-1 tvg-id="Canal FlixOlé 2" tvg-name="ES: CANAL FLIXOLE 2 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="ES | M+ CINE Y SERIES",ES: CANAL FLIXOLE 2 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77135
-#EXTINF:-1 tvg-id="Canal FlixOlé 2" tvg-name="ES: CANAL FLIXOLE 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="ES | CINE Y SERIES",ES: CANAL FLIXOLE 2 FHD
+#EXTINF:-1 tvg-id="Canal FlixOlé 2" tvg-name="ES: CANAL FLIXOLE 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="ES | M+ CINE Y SERIES",ES: CANAL FLIXOLE 2 FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77099
-#EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="ES | CINE Y SERIES",ES: DARK HD
+#EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="ES | M+ CINE Y SERIES",ES: DARK HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77121
-#EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="ES | CINE Y SERIES",ES: DARK FHD
+#EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="ES | M+ CINE Y SERIES",ES: DARK FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77084
-#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ES: HOLLYWOOD HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="ES | CINE Y SERIES",ES: HOLLYWOOD HD
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ES: HOLLYWOOD HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="ES | M+ CINE Y SERIES",ES: HOLLYWOOD HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77117
-#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="ES | CINE Y SERIES",ES: HOLLYWOOD FHD
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="ES | M+ CINE Y SERIES",ES: HOLLYWOOD FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77080
-#EXTINF:-1 tvg-id="SciFi HD" tvg-name="ES: SYFY HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="ES | CINE Y SERIES",ES: SYFY HD
+#EXTINF:-1 tvg-id="SciFi HD" tvg-name="ES: SYFY HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="ES | M+ CINE Y SERIES",ES: SYFY HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77110
-#EXTINF:-1 tvg-id="SciFi HD" tvg-name="ES: SYFY FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="ES | CINE Y SERIES",ES: SYFY FHD
+#EXTINF:-1 tvg-id="SciFi HD" tvg-name="ES: SYFY FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="ES | M+ CINE Y SERIES",ES: SYFY FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77073
-#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="ES: CALLE 13 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="ES | CINE Y SERIES",ES: CALLE 13 HD
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="ES: CALLE 13 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="ES | M+ CINE Y SERIES",ES: CALLE 13 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77108
-#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="ES: CALLE 13 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="ES | CINE Y SERIES",ES: CALLE 13 FHD
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="ES: CALLE 13 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="ES | M+ CINE Y SERIES",ES: CALLE 13 FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77071
-#EXTINF:-1 tvg-id="tnt.movistarplus.es" tvg-name="ES: WARNER TV HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="ES | CINE Y SERIES",ES: WARNER TV HD
+#EXTINF:-1 tvg-id="tnt.movistarplus.es" tvg-name="ES: WARNER TV HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="ES | M+ CINE Y SERIES",ES: WARNER TV HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77116
-#EXTINF:-1 tvg-id="tnt.movistarplus.es" tvg-name="ES: WARNER TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="ES | CINE Y SERIES",ES: WARNER TV FHD
+#EXTINF:-1 tvg-id="tnt.movistarplus.es" tvg-name="ES: WARNER TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="ES | M+ CINE Y SERIES",ES: WARNER TV FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77079
-#EXTINF:-1 tvg-id="STAR Channel" tvg-name="ES: STAR CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png" group-title="ES | CINE Y SERIES",ES: STAR CHANNEL HD
+#EXTINF:-1 tvg-id="STAR Channel" tvg-name="ES: STAR CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png" group-title="ES | M+ CINE Y SERIES",ES: STAR CHANNEL HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77112
-#EXTINF:-1 tvg-id="STAR Channel" tvg-name="ES: STAR CHANNEL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png" group-title="ES | CINE Y SERIES",ES: STAR CHANNEL FHD
+#EXTINF:-1 tvg-id="STAR Channel" tvg-name="ES: STAR CHANNEL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png" group-title="ES | M+ CINE Y SERIES",ES: STAR CHANNEL FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77075
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES: AXN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="ES | CINE Y SERIES",ES: AXN HD
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES: AXN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="ES | M+ CINE Y SERIES",ES: AXN HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77118
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES: AXN FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="ES | CINE Y SERIES",ES: AXN FHD
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES: AXN FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="ES | M+ CINE Y SERIES",ES: AXN FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77081
-#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="ES: AXN MOVIES HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="ES | CINE Y SERIES",ES: AXN MOVIES HD
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="ES: AXN MOVIES HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="ES | M+ CINE Y SERIES",ES: AXN MOVIES HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77127
-#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="ES: AXN MOVIES FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="ES | CINE Y SERIES",ES: AXN MOVIES FHD
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="ES: AXN MOVIES FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="ES | M+ CINE Y SERIES",ES: AXN MOVIES FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77090
-#EXTINF:-1 tvg-id="XTRM" tvg-name="ES: XTRM HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="ES | CINE Y SERIES",ES: XTRM HD
+#EXTINF:-1 tvg-id="XTRM" tvg-name="ES: XTRM HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="ES | M+ CINE Y SERIES",ES: XTRM HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77125
-#EXTINF:-1 tvg-id="XTRM" tvg-name="ES: XTRM FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="ES | CINE Y SERIES",ES: XTRM FHD
+#EXTINF:-1 tvg-id="XTRM" tvg-name="ES: XTRM FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="ES | M+ CINE Y SERIES",ES: XTRM FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77088
-#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="ES: SKYSHOWTIME 1 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SkyShowtime_1.png" group-title="ES | CINE Y SERIES",ES: SKYSHOWTIME 1 HD
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="ES: SKYSHOWTIME 1 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SkyShowtime_1.png" group-title="ES | M+ CINE Y SERIES",ES: SKYSHOWTIME 1 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77111
-#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="ES: SKYSHOWTIME 1 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SkyShowtime_1.png" group-title="ES | CINE Y SERIES",ES: SKYSHOWTIME 1 FHD
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="ES: SKYSHOWTIME 1 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SkyShowtime_1.png" group-title="ES | M+ CINE Y SERIES",ES: SKYSHOWTIME 1 FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77074
-#EXTINF:-1 tvg-id="AMC" tvg-name="ES: AMC HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | CINE Y SERIES",ES: AMC HD
+#EXTINF:-1 tvg-id="AMC" tvg-name="ES: AMC HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | M+ CINE Y SERIES",ES: AMC HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77123
-#EXTINF:-1 tvg-id="AMC" tvg-name="ES: AMC FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | CINE Y SERIES",ES: AMC FHD
+#EXTINF:-1 tvg-id="AMC" tvg-name="ES: AMC FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | M+ CINE Y SERIES",ES: AMC FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77086
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES: TCM HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="ES | CINE Y SERIES",ES: TCM HD
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES: TCM HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="ES | M+ CINE Y SERIES",ES: TCM HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77113
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES: TCM FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="ES | CINE Y SERIES",ES: TCM FHD
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES: TCM FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="ES | M+ CINE Y SERIES",ES: TCM FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77076
-#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="ES: SUNDANCE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Sundance.png" group-title="ES | CINE Y SERIES",ES: SUNDANCE HD
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="ES: SUNDANCE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Sundance.png" group-title="ES | M+ CINE Y SERIES",ES: SUNDANCE HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77122
-#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="ES: SUNDANCE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Sundance.png" group-title="ES | CINE Y SERIES",ES: SUNDANCE FHD
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="ES: SUNDANCE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Sundance.png" group-title="ES | M+ CINE Y SERIES",ES: SUNDANCE FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77085
-#EXTINF:-1 tvg-id="COSMO HD" tvg-name="ES: COSMO HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/COSMO.png" group-title="ES | CINE Y SERIES",ES: COSMO HD
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="ES: COSMO HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/COSMO.png" group-title="ES | M+ CINE Y SERIES",ES: COSMO HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77109
-#EXTINF:-1 tvg-id="cosmo.movistarplus.es" tvg-name="ES: COSMO FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/COSMO.png" group-title="ES | CINE Y SERIES",ES: COSMO FHD
+#EXTINF:-1 tvg-id="cosmo.movistarplus.es" tvg-name="ES: COSMO FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/COSMO.png" group-title="ES | M+ CINE Y SERIES",ES: COSMO FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77072
-#EXTINF:-1 tvg-id="COMEDYCENTRALHD" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png" group-title="ES | CINE Y SERIES",ES: COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="COMEDYCENTRALHD" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png" group-title="ES | M+ CINE Y SERIES",ES: COMEDY CENTRAL HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77119
-#EXTINF:-1 tvg-id="COMEDYCENTRALHD" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png" group-title="ES | CINE Y SERIES",ES: COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-id="COMEDYCENTRALHD" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png" group-title="ES | M+ CINE Y SERIES",ES: COMEDY CENTRAL FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77082
-#EXTINF:-1 tvg-id="VinTV" tvg-name="ES: VIN TV HD" tvg-logo="https://docdog.top/logo/countries/es/VIN_TV.png" group-title="ES | CINE Y SERIES",ES: VIN TV HD
+#EXTINF:-1 tvg-id="VinTV" tvg-name="ES: VIN TV HD" tvg-logo="https://docdog.top/logo/countries/es/VIN_TV.png" group-title="ES | M+ CINE Y SERIES",ES: VIN TV HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76809
-#EXTINF:-1 tvg-id="VinTV" tvg-name="ES: VIN TV FHD" tvg-logo="https://docdog.top/logo/countries/es/VIN_TV.png" group-title="ES | CINE Y SERIES",ES: VIN TV FHD
+#EXTINF:-1 tvg-id="VinTV" tvg-name="ES: VIN TV FHD" tvg-logo="https://docdog.top/logo/countries/es/VIN_TV.png" group-title="ES | M+ CINE Y SERIES",ES: VIN TV FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76790
-#EXTINF:-1 tvg-id="bbdra.movistarplus.es" tvg-name="ES: BBC SERIES HD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_SERIES.png" group-title="ES | CINE Y SERIES",ES: BBC SERIES HD
+#EXTINF:-1 tvg-id="bbdra.movistarplus.es" tvg-name="ES: BBC SERIES HD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_SERIES.png" group-title="ES | M+ CINE Y SERIES",ES: BBC SERIES HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77136
-#EXTINF:-1 tvg-id="bbdra.movistarplus.es" tvg-name="ES: BBC SERIES FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_SERIES.png" group-title="ES | CINE Y SERIES",ES: BBC SERIES FHD
+#EXTINF:-1 tvg-id="bbdra.movistarplus.es" tvg-name="ES: BBC SERIES FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_SERIES.png" group-title="ES | M+ CINE Y SERIES",ES: BBC SERIES FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77091
-#EXTINF:-1 tvg-id="mvciva.movistarplus.es" tvg-name="ES: M+ LOS 2000 HD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_LOS_2000.png" group-title="ES | CINE Y SERIES",ES: M+ LOS 2000 HD
+#EXTINF:-1 tvg-id="mvciva.movistarplus.es" tvg-name="ES: M+ LOS 2000 HD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_LOS_2000.png" group-title="ES | M+ CINE Y SERIES",ES: M+ LOS 2000 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77128
-#EXTINF:-1 tvg-id="mvciva.movistarplus.es" tvg-name="ES: M+ LOS 2000 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_LOS_2000.png" group-title="ES | CINE Y SERIES",ES: M+ LOS 2000 FHD
+#EXTINF:-1 tvg-id="mvciva.movistarplus.es" tvg-name="ES: M+ LOS 2000 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_LOS_2000.png" group-title="ES | M+ CINE Y SERIES",ES: M+ LOS 2000 FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77092
-#EXTINF:-1 tvg-id="morgul.movistarplus.es" tvg-name="ES: M+ TOP COMEDIA ESPANOLA HD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_TOP_COMEDIA_ESPANOLA.png" group-title="ES | CINE Y SERIES",ES: M+ TOP COMEDIA ESPANOLA HD
+#EXTINF:-1 tvg-id="morgul.movistarplus.es" tvg-name="ES: M+ TOP COMEDIA ESPANOLA HD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_TOP_COMEDIA_ESPANOLA.png" group-title="ES | M+ CINE Y SERIES",ES: M+ TOP COMEDIA ESPANOLA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77129
-#EXTINF:-1 tvg-id="morgul.movistarplus.es" tvg-name="ES: M+ TOP COMEDIA ESPANOLA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_TOP_COMEDIA_ESPANOLA.png" group-title="ES | CINE Y SERIES",ES: M+ TOP COMEDIA ESPANOLA FHD
+#EXTINF:-1 tvg-id="morgul.movistarplus.es" tvg-name="ES: M+ TOP COMEDIA ESPANOLA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_TOP_COMEDIA_ESPANOLA.png" group-title="ES | M+ CINE Y SERIES",ES: M+ TOP COMEDIA ESPANOLA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77093
-#EXTINF:-1 tvg-id="freeli.movistarplus.es" tvg-name="ES: M+ CERO HD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_CERO.png" group-title="ES | CINE Y SERIES",ES: M+ CERO HD
+#EXTINF:-1 tvg-id="freeli.movistarplus.es" tvg-name="ES: M+ CERO HD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_CERO.png" group-title="ES | M+ CINE Y SERIES",ES: M+ CERO HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77157
-#EXTINF:-1 tvg-id="freeli.movistarplus.es" tvg-name="ES: M+ CERO FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_CERO.png" group-title="ES | CINE Y SERIES",ES: M+ CERO FHD
+#EXTINF:-1 tvg-id="freeli.movistarplus.es" tvg-name="ES: M+ CERO FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_CERO.png" group-title="ES | M+ CINE Y SERIES",ES: M+ CERO FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77137
 
-#EXTINF:-1 tvg-id="AMC Living" tvg-name="ES: CANAL DECASA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ES | ESTILO DE VIDA",ES: CANAL DECASA HD
+#EXTINF:-1 tvg-id="AMC Living" tvg-name="ES: CANAL DECASA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ES | M+ ESTILO DE VIDA",ES: CANAL DECASA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77222
-#EXTINF:-1 tvg-id="AMC Living" tvg-name="ES: CANAL DECASA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ES | ESTILO DE VIDA",ES: CANAL DECASA FHD
+#EXTINF:-1 tvg-id="AMC Living" tvg-name="ES: CANAL DECASA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ES | M+ ESTILO DE VIDA",ES: CANAL DECASA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77213
-#EXTINF:-1 tvg-id="Dviaje" tvg-name="ES: M+ BUEN VIAJE HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dviaje.png" group-title="ES | ESTILO DE VIDA",ES: D VIAJE HD
+#EXTINF:-1 tvg-id="Dviaje" tvg-name="ES: M+ BUEN VIAJE HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dviaje.png" group-title="ES | M+ ESTILO DE VIDA",ES: D VIAJE HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77223
-#EXTINF:-1 tvg-id="Dviaje" tvg-name="ES: M+ BUEN VIAJE FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dviaje.png" group-title="ES | ESTILO DE VIDA",ES: D VIAJE FHD
+#EXTINF:-1 tvg-id="Dviaje" tvg-name="ES: M+ BUEN VIAJE FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dviaje.png" group-title="ES | M+ ESTILO DE VIDA",ES: D VIAJE FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77214
-#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="ES: CANAL COCINA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png" group-title="ES | ESTILO DE VIDA",ES: CANAL COCINA HD
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="ES: CANAL COCINA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png" group-title="ES | M+ ESTILO DE VIDA",ES: CANAL COCINA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77221
-#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="ES: CANAL COCINA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png" group-title="ES | ESTILO DE VIDA",ES: CANAL COCINA FHD
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="ES: CANAL COCINA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png" group-title="ES | M+ ESTILO DE VIDA",ES: CANAL COCINA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77212
-#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="ES: MTV ESPANA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MTV.png" group-title="ES | ESTILO DE VIDA",ES: MTV ESPANA FHD
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="ES: MTV ESPANA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MTV.png" group-title="ES | M+ ESTILO DE VIDA",ES: MTV ESPANA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77209
-#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="ES: MTV ESPANA HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/MTV_ESPANA.png" group-title="ES | ESTILO DE VIDA",ES: MTV ESPANA HD
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="ES: MTV ESPANA HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/MTV_ESPANA.png" group-title="ES | M+ ESTILO DE VIDA",ES: MTV ESPANA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77218
-#EXTINF:-1 tvg-id="AMC Selekt TV" tvg-name="ES: SELEKT HD" tvg-logo="https://docdog.top/logo/countries/new/es/SELEKT.png" group-title="ES | ESTILO DE VIDA",ES: SELEKT HD
+#EXTINF:-1 tvg-id="AMC Selekt TV" tvg-name="ES: SELEKT HD" tvg-logo="https://docdog.top/logo/countries/new/es/SELEKT.png" group-title="ES | M+ ESTILO DE VIDA",ES: SELEKT HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77167
-#EXTINF:-1 tvg-id="AMC Selekt TV" tvg-name="ES: SELEKT FHD" tvg-logo="https://docdog.top/logo/countries/es/SELEKT.png" group-title="ES | ESTILO DE VIDA",ES: SELEKT FHD
+#EXTINF:-1 tvg-id="AMC Selekt TV" tvg-name="ES: SELEKT FHD" tvg-logo="https://docdog.top/logo/countries/es/SELEKT.png" group-title="ES | M+ ESTILO DE VIDA",ES: SELEKT FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77147
-#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="ES: AMC BREAK HD" tvg-logo="https://docdog.top/logo/countries/new/es/AMC_BREAK.png" group-title="ES | ESTILO DE VIDA",ES: AMC BREAK HD
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="ES: AMC BREAK HD" tvg-logo="https://docdog.top/logo/countries/new/es/AMC_BREAK.png" group-title="ES | M+ ESTILO DE VIDA",ES: AMC BREAK HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77166
-#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="ES: AMC BREAK FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png" group-title="ES | ESTILO DE VIDA",ES: AMC BREAK FHD
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="ES: AMC BREAK FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png" group-title="ES | M+ ESTILO DE VIDA",ES: AMC BREAK FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77146
-#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="ES: AMC CRIME HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="ES | ESTILO DE VIDA",ES: AMC CRIME HD
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="ES: AMC CRIME HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="ES | M+ ESTILO DE VIDA",ES: AMC CRIME HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77126
-#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="ES: AMC CRIME FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="ES | ESTILO DE VIDA",ES: AMC CRIME FHD
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="ES: AMC CRIME FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="ES | M+ ESTILO DE VIDA",ES: AMC CRIME FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77089
-#EXTINF:-1 tvg-id="bbfoo.movistarplus.es" tvg-name="ES: BBC FOOD HD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_FOOD.png" group-title="ES | ESTILO DE VIDA",ES: BBC FOOD HD
+#EXTINF:-1 tvg-id="bbfoo.movistarplus.es" tvg-name="ES: BBC FOOD HD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_FOOD.png" group-title="ES | M+ ESTILO DE VIDA",ES: BBC FOOD HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77173
-#EXTINF:-1 tvg-id="bbfoo.movistarplus.es" tvg-name="ES: BBC FOOD FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_FOOD.png" group-title="ES | ESTILO DE VIDA",ES: BBC FOOD FHD
+#EXTINF:-1 tvg-id="bbfoo.movistarplus.es" tvg-name="ES: BBC FOOD FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_FOOD.png" group-title="ES | M+ ESTILO DE VIDA",ES: BBC FOOD FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77153
-#EXTINF:-1 tvg-id="bbclif.movistarplus.es" tvg-name="ES: BBC LIFESTYLE HD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_LIFESTYLE.png" group-title="ES | ESTILO DE VIDA",ES: BBC LIFESTYLE HD
+#EXTINF:-1 tvg-id="bbclif.movistarplus.es" tvg-name="ES: BBC LIFESTYLE HD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_LIFESTYLE.png" group-title="ES | M+ ESTILO DE VIDA",ES: BBC LIFESTYLE HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77176
-#EXTINF:-1 tvg-id="bbclif.movistarplus.es" tvg-name="ES: BBC LIFESTYLE FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_LIFESTYLE.png" group-title="ES | ESTILO DE VIDA",ES: BBC LIFESTYLE FHD
+#EXTINF:-1 tvg-id="bbclif.movistarplus.es" tvg-name="ES: BBC LIFESTYLE FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_LIFESTYLE.png" group-title="ES | M+ ESTILO DE VIDA",ES: BBC LIFESTYLE FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77156
 
-#EXTINF:-1 tvg-id="mdoc.movistarplus.es" tvg-name="ES: M+ DOCUMENTALES HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ES | DOCUMENTALES",ES: M+ DOCUMENTALES HD
+#EXTINF:-1 tvg-id="mdoc.movistarplus.es" tvg-name="ES: M+ DOCUMENTALES HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ES | M+ DOCUMENTALES",ES: M+ DOCUMENTALES HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77158
-#EXTINF:-1 tvg-id="mdoc.movistarplus.es" tvg-name="ES: M+ DOCUMENTALES FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ES | DOCUMENTALES",ES: M+ DOCUMENTALES FHD
+#EXTINF:-1 tvg-id="mdoc.movistarplus.es" tvg-name="ES: M+ DOCUMENTALES FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ES | M+ DOCUMENTALES",ES: M+ DOCUMENTALES FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77138
-#EXTINF:-1 tvg-id="natgeo.movistarplus.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="ES | DOCUMENTALES",ES: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="natgeo.movistarplus.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="ES | M+ DOCUMENTALES",ES: NATIONAL GEOGRAPHIC HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77159
-#EXTINF:-1 tvg-id="natgeo.movistarplus.es" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="ES | DOCUMENTALES",ES: NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="natgeo.movistarplus.es" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="ES | M+ DOCUMENTALES",ES: NATIONAL GEOGRAPHIC FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77139
-#EXTINF:-1 tvg-id="natgw.movistarplus.es" tvg-name="ES: NAT GEO WILD HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="ES | DOCUMENTALES",ES: NAT GEO WILD HD
+#EXTINF:-1 tvg-id="natgw.movistarplus.es" tvg-name="ES: NAT GEO WILD HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="ES | M+ DOCUMENTALES",ES: NAT GEO WILD HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77160
-#EXTINF:-1 tvg-id="NG WILD HD" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="ES | DOCUMENTALES",ES: NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="NG WILD HD" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="ES | M+ DOCUMENTALES",ES: NAT GEO WILD FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77140
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="ES: DISCOVERY HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="ES | DOCUMENTALES",ES: DISCOVERY HD
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="ES: DISCOVERY HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="ES | M+ DOCUMENTALES",ES: DISCOVERY HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77162
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="ES: DISCOVERY FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="ES | DOCUMENTALES",ES: DISCOVERY FHD
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="ES: DISCOVERY FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="ES | M+ DOCUMENTALES",ES: DISCOVERY FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77142
-#EXTINF:-1 tvg-id="DMAX" tvg-name="ES: DMAX HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="ES | DOCUMENTALES",ES: DMAX HD
+#EXTINF:-1 tvg-id="DMAX" tvg-name="ES: DMAX HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="ES | M+ DOCUMENTALES",ES: DMAX HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77163
-#EXTINF:-1 tvg-id="DMAX" tvg-name="ES: DMAX FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="ES | DOCUMENTALES",ES: DMAX FHD
+#EXTINF:-1 tvg-id="DMAX" tvg-name="ES: DMAX FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="ES | M+ DOCUMENTALES",ES: DMAX FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77143
-#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES: HISTORIA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="ES | DOCUMENTALES",ES: HISTORIA HD
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES: HISTORIA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="ES | M+ DOCUMENTALES",ES: HISTORIA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77161
-#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES: HISTORIA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="ES | DOCUMENTALES",ES: HISTORIA FHD
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES: HISTORIA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="ES | M+ DOCUMENTALES",ES: HISTORIA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77141
-#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ES: ODISEA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="ES | DOCUMENTALES",ES: ODISEA HD
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ES: ODISEA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="ES | M+ DOCUMENTALES",ES: ODISEA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77164
-#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ES: ODISEA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="ES | DOCUMENTALES",ES: ODISEA FHD
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ES: ODISEA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="ES | M+ DOCUMENTALES",ES: ODISEA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77144
-#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="ES: MAX AVANCES HD" tvg-logo="https://docdog.top/logo/countries/new/es/MAX_AVANCES.png" group-title="ES | DOCUMENTALES",ES: MAX AVANCES HD
+#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="ES: MAX AVANCES HD" tvg-logo="https://docdog.top/logo/countries/new/es/MAX_AVANCES.png" group-title="ES | M+ DOCUMENTALES",ES: MAX AVANCES HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77130
-#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="ES: MAX AVANCES FHD" tvg-logo="https://docdog.top/logo/countries/new/es/MAX_AVANCES.png" group-title="ES | DOCUMENTALES",ES: MAX AVANCES FHD
+#EXTINF:-1 tvg-id="HBO Max Avances" tvg-name="ES: MAX AVANCES FHD" tvg-logo="https://docdog.top/logo/countries/new/es/MAX_AVANCES.png" group-title="ES | M+ DOCUMENTALES",ES: MAX AVANCES FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77094
-#EXTINF:-1 tvg-id="bbhis.movistarplus.es" tvg-name="ES: BBC HISTORY HD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_HISTORY.png" group-title="ES | DOCUMENTALES",ES: BBC HISTORY HD
+#EXTINF:-1 tvg-id="bbhis.movistarplus.es" tvg-name="ES: BBC HISTORY HD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_HISTORY.png" group-title="ES | M+ DOCUMENTALES",ES: BBC HISTORY HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77174
-#EXTINF:-1 tvg-id="bbhis.movistarplus.es" tvg-name="ES: BBC HISTORY FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_HISTORY.png" group-title="ES | DOCUMENTALES",ES: BBC HISTORY FHD
+#EXTINF:-1 tvg-id="bbhis.movistarplus.es" tvg-name="ES: BBC HISTORY FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_HISTORY.png" group-title="ES | M+ DOCUMENTALES",ES: BBC HISTORY FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77154
-#EXTINF:-1 tvg-id="bbcear.movistarplus.es" tvg-name="ES: BBC EARTH HD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_EARTH.png" group-title="ES | DOCUMENTALES",ES: BBC EARTH HD
+#EXTINF:-1 tvg-id="bbcear.movistarplus.es" tvg-name="ES: BBC EARTH HD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_EARTH.png" group-title="ES | M+ DOCUMENTALES",ES: BBC EARTH HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77175
-#EXTINF:-1 tvg-id="bbcear.movistarplus.es" tvg-name="ES: BBC EARTH FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_EARTH.png" group-title="ES | DOCUMENTALES",ES: BBC EARTH FHD
+#EXTINF:-1 tvg-id="bbcear.movistarplus.es" tvg-name="ES: BBC EARTH FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_EARTH.png" group-title="ES | M+ DOCUMENTALES",ES: BBC EARTH FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77155
 
-#EXTINF:-1 tvg-id="cazpes.movistarplus.es" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="ES | CAZA PESCA TOROS",ES: CAZA Y PESCA HD
+#EXTINF:-1 tvg-id="cazpes.movistarplus.es" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="ES | M+ CAZA PESCA TOROS",ES: CAZA Y PESCA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77165
-#EXTINF:-1 tvg-id="cazpes.movistarplus.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="ES | CAZA PESCA TOROS",ES: CAZA Y PESCA FHD
+#EXTINF:-1 tvg-id="cazpes.movistarplus.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="ES | M+ CAZA PESCA TOROS",ES: CAZA Y PESCA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77145
-#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="ES | CAZA PESCA TOROS",ES: CAZAVISIÓN HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="ES | M+ CAZA PESCA TOROS",ES: CAZAVISIÓN HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77169
-#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="ES | CAZA PESCA TOROS",ES: CAZAVISIÓN FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="ES | M+ CAZA PESCA TOROS",ES: CAZAVISIÓN FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77149
-#EXTINF:-1 tvg-id="iberal.movistarplus.es" tvg-name="ES: IBERALIA TV HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CAZA PESCA TOROS",ES: IBERALIA TV HD
+#EXTINF:-1 tvg-id="iberal.movistarplus.es" tvg-name="ES: IBERALIA TV HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | M+ CAZA PESCA TOROS",ES: IBERALIA TV HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77170
-#EXTINF:-1 tvg-id="iberal.movistarplus.es" tvg-name="ES: IBERALIA TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CAZA PESCA TOROS",ES: IBERALIA TV FHD
+#EXTINF:-1 tvg-id="iberal.movistarplus.es" tvg-name="ES: IBERALIA TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | M+ CAZA PESCA TOROS",ES: IBERALIA TV FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77150
-#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="ES: IBERALIA 100% CAZA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CAZA PESCA TOROS",ES: IBERALIA 100% CAZA HD
+#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="ES: IBERALIA 100% CAZA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | M+ CAZA PESCA TOROS",ES: IBERALIA 100% CAZA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77171
-#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="ES: IBERALIA 100% CAZA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CAZA PESCA TOROS",ES: IBERALIA 100% CAZA FHD
+#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="ES: IBERALIA 100% CAZA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | M+ CAZA PESCA TOROS",ES: IBERALIA 100% CAZA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77151
-#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="ES: IBERALIA 100% PESCA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CAZA PESCA TOROS",ES: IBERALIA 100% PESCA HD
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="ES: IBERALIA 100% PESCA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | M+ CAZA PESCA TOROS",ES: IBERALIA 100% PESCA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77172
-#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="ES: IBERALIA 100% PESCA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CAZA PESCA TOROS",ES: IBERALIA 100% PESCA FHD
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="ES: IBERALIA 100% PESCA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | M+ CAZA PESCA TOROS",ES: IBERALIA 100% PESCA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77152
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | CAZA PESCA TOROS",ES: (LÍNEA 1) ONETORO
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | M+ CAZA PESCA TOROS",ES: (LÍNEA 1) ONETORO
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77251
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | CAZA PESCA TOROS",ES: (LÍNEA 2) ONETORO
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | M+ CAZA PESCA TOROS",ES: (LÍNEA 2) ONETORO
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77252
-#EXTINF:-1 tvg-id="Torolé TV" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | CAZA PESCA TOROS",ES: TOROLE TV
+#EXTINF:-1 tvg-id="Torolé TV" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | M+ CAZA PESCA TOROS",ES: TOROLE TV
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77253
 
-#EXTINF:-1 tvg-id="mezzo.movistarplus.es" tvg-name="ES: MEZZO HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo.png" group-title="ES | MUSICA",ES: MEZZO HD
+#EXTINF:-1 tvg-id="mezzo.movistarplus.es" tvg-name="ES: MEZZO HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo.png" group-title="ES |M+ MUSICA",ES: MEZZO HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77228
-#EXTINF:-1 tvg-id="mezzo.movistarplus.es" tvg-name="ES: MEZZO FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo.png" group-title="ES | MUSICA",ES: MEZZO FHD
+#EXTINF:-1 tvg-id="mezzo.movistarplus.es" tvg-name="ES: MEZZO FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo.png" group-title="ES |M+ MUSICA",ES: MEZZO FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77225
-#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png" group-title="ES | MUSICA",ES: MEZZO LIVE HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png" group-title="ES |M+ MUSICA",ES: MEZZO LIVE HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77229
-#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png" group-title="ES | MUSICA",ES: MEZZO LIVE FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png" group-title="ES |M+ MUSICA",ES: MEZZO LIVE FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77226
 
-#EXTINF:-1 tvg-id="Clan" tvg-name="ES: CLAN TVE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="ES | INFANTILES",ES: CLAN TVE HD
+#EXTINF:-1 tvg-id="Clan" tvg-name="ES: CLAN TVE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="ES | M+ INFANTILES",ES: CLAN TVE HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77246
-#EXTINF:-1 tvg-id="Clan" tvg-name="ES: CLAN TVE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="ES | INFANTILES",ES: CLAN TVE FHD
+#EXTINF:-1 tvg-id="Clan" tvg-name="ES: CLAN TVE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="ES | M+ INFANTILES",ES: CLAN TVE FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77240
-#EXTINF:-1 tvg-id="BOING" tvg-name="ES: BOING HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Boing.png" group-title="ES | INFANTILES",ES: BOING HD
+#EXTINF:-1 tvg-id="BOING" tvg-name="ES: BOING HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Boing.png" group-title="ES | M+ INFANTILES",ES: BOING HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77245
-#EXTINF:-1 tvg-id="BOING" tvg-name="ES: BOING FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Boing.png" group-title="ES | INFANTILES",ES: BOING FHD
+#EXTINF:-1 tvg-id="BOING" tvg-name="ES: BOING FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Boing.png" group-title="ES | M+ INFANTILES",ES: BOING FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77236
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="ES | INFANTILES",ES: DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="ES | M+ INFANTILES",ES: DISNEY CHANNEL HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77244
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="ES | INFANTILES",ES: DISNEY CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="ES | M+ INFANTILES",ES: DISNEY CHANNEL FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77235
-#EXTINF:-1 tvg-id="Disney Jr HD" tvg-name="ES: DISNEY JUNIOR HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="ES | INFANTILES",ES: DISNEY JUNIOR HD
+#EXTINF:-1 tvg-id="Disney Jr HD" tvg-name="ES: DISNEY JUNIOR HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="ES | M+ INFANTILES",ES: DISNEY JUNIOR HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77237
-#EXTINF:-1 tvg-id="DISNEY JR HD" tvg-name="ES: DISNEY JUNIOR FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="ES | INFANTILES",ES: DISNEY JUNIOR FHD
+#EXTINF:-1 tvg-id="DISNEY JR HD" tvg-name="ES: DISNEY JUNIOR FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="ES | M+ INFANTILES",ES: DISNEY JUNIOR FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77231
-#EXTINF:-1 tvg-id="baby.movistarplus.es" tvg-name="ES: BABY TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="ES | INFANTILES",ES: BABY TV FHD
+#EXTINF:-1 tvg-id="baby.movistarplus.es" tvg-name="ES: BABY TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="ES | M+ INFANTILES",ES: BABY TV FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77230
-#EXTINF:-1 tvg-id="nick.movistarplus.es" tvg-name="ES: NICKELODEON HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="ES | INFANTILES",ES: NICKELODEON HD
+#EXTINF:-1 tvg-id="nick.movistarplus.es" tvg-name="ES: NICKELODEON HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="ES | M+ INFANTILES",ES: NICKELODEON HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77242
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ES: NICKELODEON FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="ES | INFANTILES",ES: NICKELODEON FHD
+#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="ES: NICKELODEON FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="ES | M+ INFANTILES",ES: NICKELODEON FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77233
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="ES: NICK JR HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="ES | INFANTILES",ES: NICK JR HD
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="ES: NICK JR HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="ES | M+ INFANTILES",ES: NICK JR HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77241
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="ES: NICK JR FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="ES | INFANTILES",ES: NICK JR FHD
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="ES: NICK JR FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="ES | M+ INFANTILES",ES: NICK JR FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77232
-#EXTINF:-1 tvg-id="dwsp.movistarplus.es" tvg-name="ES: DREAMWORKS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="ES | INFANTILES",ES: DREAMWORKS HD
+#EXTINF:-1 tvg-id="dwsp.movistarplus.es" tvg-name="ES: DREAMWORKS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="ES | M+ INFANTILES",ES: DREAMWORKS HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77243
-#EXTINF:-1 tvg-id="dwsp.movistarplus.es" tvg-name="ES: DREAMWORKS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="ES | INFANTILES",ES: DREAMWORKS FHD
+#EXTINF:-1 tvg-id="dwsp.movistarplus.es" tvg-name="ES: DREAMWORKS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="ES | M+ INFANTILES",ES: DREAMWORKS FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77234
-#EXTINF:-1 tvg-id="Anime Visión" tvg-name="ES: ANIME VISION HD" tvg-logo="https://docdog.top/logo/countries/new/es/ANIME_VISION.png" group-title="ES | INFANTILES",ES: ANIME VISION HD
+#EXTINF:-1 tvg-id="Anime Visión" tvg-name="ES: ANIME VISION HD" tvg-logo="https://docdog.top/logo/countries/new/es/ANIME_VISION.png" group-title="ES | M+ INFANTILES",ES: ANIME VISION HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77247
-#EXTINF:-1 tvg-id="Anime Visión" tvg-name="ES: ANIME VISION FHD" tvg-logo="https://docdog.top/logo/countries/new/es/ANIME_VISION.png" group-title="ES | INFANTILES",ES: ANIME VISION FHD
+#EXTINF:-1 tvg-id="Anime Visión" tvg-name="ES: ANIME VISION FHD" tvg-logo="https://docdog.top/logo/countries/new/es/ANIME_VISION.png" group-title="ES | M+ INFANTILES",ES: ANIME VISION FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77238
-#EXTINF:-1 tvg-id="Anime Visión Classics" tvg-name="ES: ANIME VISION CLASSICS HD" tvg-logo="https://docdog.top/logo/countries/new/es/ANIME_VISION_CLASSICS.png" group-title="ES | INFANTILES",ES: ANIME VISION CLASSICS HD
+#EXTINF:-1 tvg-id="Anime Visión Classics" tvg-name="ES: ANIME VISION CLASSICS HD" tvg-logo="https://docdog.top/logo/countries/new/es/ANIME_VISION_CLASSICS.png" group-title="ES | M+ INFANTILES",ES: ANIME VISION CLASSICS HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77248
-#EXTINF:-1 tvg-id="Anime Visión Classics" tvg-name="ES: ANIME VISION CLASSICS FHD" tvg-logo="https://docdog.top/logo/countries/new/es/ANIME_VISION_CLASSICS.png" group-title="ES | INFANTILES",ES: ANIME VISION CLASSICS FHD
+#EXTINF:-1 tvg-id="Anime Visión Classics" tvg-name="ES: ANIME VISION CLASSICS FHD" tvg-logo="https://docdog.top/logo/countries/new/es/ANIME_VISION_CLASSICS.png" group-title="ES | M+ INFANTILES",ES: ANIME VISION CLASSICS FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77239
 
-#EXTINF:-1 tvg-id="aljaze.movistarplus.es" tvg-name="ES: AL JAZEERA ENGLISH FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Al_Jazeera_English.png" group-title="ES | NOTICIAS",ES: AL JAZEERA ENGLISH FHD
+#EXTINF:-1 tvg-id="aljaze.movistarplus.es" tvg-name="ES: AL JAZEERA ENGLISH FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Al_Jazeera_English.png" group-title="ES | M+ NOTICIAS",ES: AL JAZEERA ENGLISH FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77177
-#EXTINF:-1 tvg-id="" tvg-name="ES: FRANCE24 (FR) FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/FRANCE24_FR.png" group-title="ES | NOTICIAS",ES: FRANCE24 (FR) FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: FRANCE24 (FR) FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/FRANCE24_FR.png" group-title="ES | M+ NOTICIAS",ES: FRANCE24 (FR) FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77178
-#EXTINF:-1 tvg-id="" tvg-name="ES: 1+1 INTERNACIONAL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/1_1_Internacional.png" group-title="ES | NOTICIAS",ES: 1+1 INTERNACIONAL FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: 1+1 INTERNACIONAL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/1_1_Internacional.png" group-title="ES | M+ NOTICIAS",ES: 1+1 INTERNACIONAL FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77179
-#EXTINF:-1 tvg-id="" tvg-name="ES: CNBC FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CNBC.png" group-title="ES | NOTICIAS",ES: CNBC FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: CNBC FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CNBC.png" group-title="ES | M+ NOTICIAS",ES: CNBC FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77180
-#EXTINF:-1 tvg-id="tv5.movistarplus.es" tvg-name="ES: TV5MONDE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV5MONDE.png" group-title="ES | NOTICIAS",ES: TV5MONDE FHD
+#EXTINF:-1 tvg-id="tv5.movistarplus.es" tvg-name="ES: TV5MONDE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV5MONDE.png" group-title="ES | M+ NOTICIAS",ES: TV5MONDE FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77181
-#EXTINF:-1 tvg-id="cctv-e.movistarplus.es" tvg-name="ES: CGTN ESPAÑOL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CGTN_Espanol.png" group-title="ES | NOTICIAS",ES: CGTN ESPAÑOL FHD
+#EXTINF:-1 tvg-id="cctv-e.movistarplus.es" tvg-name="ES: CGTN ESPAÑOL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CGTN_Espanol.png" group-title="ES | M+ NOTICIAS",ES: CGTN ESPAÑOL FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77182
-#EXTINF:-1 tvg-id="" tvg-name="ES: BLOOMBERG FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Bloomberg.png" group-title="ES | NOTICIAS",ES: BLOOMBERG FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: BLOOMBERG FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Bloomberg.png" group-title="ES | M+ NOTICIAS",ES: BLOOMBERG FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77183
-#EXTINF:-1 tvg-id="BBC World News Europe HD" tvg-name="ES: BBC WORLD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BBC_World.png" group-title="ES | NOTICIAS",ES: BBC WORLD FHD
+#EXTINF:-1 tvg-id="BBC World News Europe HD" tvg-name="ES: BBC WORLD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BBC_World.png" group-title="ES | M+ NOTICIAS",ES: BBC WORLD FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77185
-#EXTINF:-1 tvg-id="cnn.movistarplus.es" tvg-name="ES: CNN INT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CNN_Int.png" group-title="ES | NOTICIAS",ES: CNN INT FHD
+#EXTINF:-1 tvg-id="cnn.movistarplus.es" tvg-name="ES: CNN INT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CNN_Int.png" group-title="ES | M+ NOTICIAS",ES: CNN INT FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77186
-#EXTINF:-1 tvg-id="enw.movistarplus.es" tvg-name="ES: EURONEWS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Euronews.png" group-title="ES | NOTICIAS",ES: EURONEWS FHD
+#EXTINF:-1 tvg-id="enw.movistarplus.es" tvg-name="ES: EURONEWS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Euronews.png" group-title="ES | M+ NOTICIAS",ES: EURONEWS FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77187
-#EXTINF:-1 tvg-id="" tvg-name="ES: NEGOCIOS TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Negocios_TV.png" group-title="ES | NOTICIAS",ES: NEGOCIOS TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEGOCIOS TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Negocios_TV.png" group-title="ES | M+ NOTICIAS",ES: NEGOCIOS TV FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77188
-#EXTINF:-1 tvg-id="" tvg-name="ES: CARACOL TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CARACOL_TV.png" group-title="ES | NOTICIAS",ES: CARACOL TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: CARACOL TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CARACOL_TV.png" group-title="ES | M+ NOTICIAS",ES: CARACOL TV FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77195
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRO TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/PRO_TV.png" group-title="ES | NOTICIAS",ES: PRO TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRO TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/PRO_TV.png" group-title="ES | M+ NOTICIAS",ES: PRO TV FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77196
-#EXTINF:-1 tvg-id="Euronews.es" tvg-name="ES: EURONEWS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Euronews.png" group-title="ES | NOTICIAS",ES: EURONEWS HD
+#EXTINF:-1 tvg-id="Euronews.es" tvg-name="ES: EURONEWS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Euronews.png" group-title="ES | M+ NOTICIAS",ES: EURONEWS HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77198
-#EXTINF:-1 tvg-id="" tvg-name="ES: NEGOCIOS TV HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Negocios_TV.png" group-title="ES | NOTICIAS",ES: NEGOCIOS TV HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEGOCIOS TV HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Negocios_TV.png" group-title="ES | M+ NOTICIAS",ES: NEGOCIOS TV HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77199
-#EXTINF:-1 tvg-id="" tvg-name="ES: CARACOL TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/CARACOL_TV.png" group-title="ES | NOTICIAS",ES: CARACOL TV HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: CARACOL TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/CARACOL_TV.png" group-title="ES | M+ NOTICIAS",ES: CARACOL TV HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77204
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRO TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/PRO_TV.png" group-title="ES | NOTICIAS",ES: PRO TV HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRO TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/PRO_TV.png" group-title="ES | M+ NOTICIAS",ES: PRO TV HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77205
 
-#EXTINF:-1 tvg-id="tve.movistarplus.es" tvg-name="ES: LA 1 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | GENERALISTAS",ES: LA 1 HD
+#EXTINF:-1 tvg-id="tve.movistarplus.es" tvg-name="ES: LA 1 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | M+ GENERALISTAS",ES: LA 1 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76800
-#EXTINF:-1 tvg-id="tve.movistarplus.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | GENERALISTAS",ES: LA 1 FHD
+#EXTINF:-1 tvg-id="tve.movistarplus.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | M+ GENERALISTAS",ES: LA 1 FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76781
-#EXTINF:-1 tvg-id="La 2 HD" tvg-name="ES: LA 2 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | GENERALISTAS",ES: LA 2 HD
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="ES: LA 2 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | M+ GENERALISTAS",ES: LA 2 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76801
-#EXTINF:-1 tvg-id="La 2 HD" tvg-name="ES: LA 2 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | GENERALISTAS",ES: LA 2 FHD
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="ES: LA 2 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | M+ GENERALISTAS",ES: LA 2 FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76782
-#EXTINF:-1 tvg-id="24h.movistarplus.es" tvg-name="ES: 24 HORAS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="ES | NOTICIAS",ES: 24 HORAS HD
+#EXTINF:-1 tvg-id="24h.movistarplus.es" tvg-name="ES: 24 HORAS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="ES | M+ NOTICIAS",ES: 24 HORAS HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77197
-#EXTINF:-1 tvg-id="24h.movistarplus.es" tvg-name="ES: 24 HORAS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="ES | NOTICIAS",ES: 24 HORAS FHD
+#EXTINF:-1 tvg-id="24h.movistarplus.es" tvg-name="ES: 24 HORAS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="ES | M+ NOTICIAS",ES: 24 HORAS FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77184
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ES | GENERALISTAS",ES: ANTENA 3 HD
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ES | M+ GENERALISTAS",ES: ANTENA 3 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76802
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ES | GENERALISTAS",ES: ANTENA 3 FHD
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ES | M+ GENERALISTAS",ES: ANTENA 3 FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76783
-#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES: ATRESERIES HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="ES | GENERALISTAS",ES: ATRESERIES HD
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES: ATRESERIES HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="ES | M+ GENERALISTAS",ES: ATRESERIES HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76811
-#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES: ATRESERIES FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="ES | GENERALISTAS",ES: ATRESERIES FHD
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES: ATRESERIES FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="ES | M+ GENERALISTAS",ES: ATRESERIES FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76792
-#EXTINF:-1 tvg-id="Neox HD" tvg-name="ES: NEOX HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Neox.png" group-title="ES | GENERALISTAS",ES: NEOX HD
+#EXTINF:-1 tvg-id="Neox HD" tvg-name="ES: NEOX HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Neox.png" group-title="ES | M+ GENERALISTAS",ES: NEOX HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76808
-#EXTINF:-1 tvg-id="Neox HD" tvg-name="ES: NEOX FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Neox.png" group-title="ES | GENERALISTAS",ES: NEOX FHD
+#EXTINF:-1 tvg-id="Neox HD" tvg-name="ES: NEOX FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Neox.png" group-title="ES | M+ GENERALISTAS",ES: NEOX FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76789
-#EXTINF:-1 tvg-id="Nova HD" tvg-name="ES: NOVA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ES | GENERALISTAS",ES: NOVA HD
+#EXTINF:-1 tvg-id="Nova HD" tvg-name="ES: NOVA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ES | M+ GENERALISTAS",ES: NOVA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77216
-#EXTINF:-1 tvg-id="Nova HD" tvg-name="ES: NOVA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ES | GENERALISTAS",ES: NOVA FHD
+#EXTINF:-1 tvg-id="Nova HD" tvg-name="ES: NOVA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ES | M+ GENERALISTAS",ES: NOVA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77207
-#EXTINF:-1 tvg-id="Mega" tvg-name="ES: MEGA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mega.png" group-title="ES | GENERALISTAS",ES: MEGA HD
+#EXTINF:-1 tvg-id="Mega" tvg-name="ES: MEGA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mega.png" group-title="ES | M+ GENERALISTAS",ES: MEGA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77217
-#EXTINF:-1 tvg-id="Mega" tvg-name="ES: MEGA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mega.png" group-title="ES | GENERALISTAS",ES: MEGA FHD
+#EXTINF:-1 tvg-id="Mega" tvg-name="ES: MEGA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mega.png" group-title="ES | M+ GENERALISTAS",ES: MEGA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77208
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="ES | GENERALISTAS",ES: CUATRO HD
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="ES | M+ GENERALISTAS",ES: CUATRO HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76804
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="ES | GENERALISTAS",ES: CUATRO FHD
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="ES | M+ GENERALISTAS",ES: CUATRO FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76785
-#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="ES: TELECINCO HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ES | GENERALISTAS",ES: TELECINCO HD
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="ES: TELECINCO HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ES | M+ GENERALISTAS",ES: TELECINCO HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76805
-#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="ES: TELECINCO FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ES | GENERALISTAS",ES: TELECINCO FHD
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="ES: TELECINCO FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ES | M+ GENERALISTAS",ES: TELECINCO FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76786
-#EXTINF:-1 tvg-id="fdfic.movistarplus.es" tvg-name="ES: FACTORÍA DE FICCIÓN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ES | GENERALISTAS",ES: FACTORÍA DE FICCIÓN HD
+#EXTINF:-1 tvg-id="fdfic.movistarplus.es" tvg-name="ES: FACTORÍA DE FICCIÓN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ES | M+ GENERALISTAS",ES: FACTORÍA DE FICCIÓN HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76807
-#EXTINF:-1 tvg-id="fdfic.movistarplus.es" tvg-name="ES: FACTORÍA DE FICCIÓN FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ES | GENERALISTAS",ES: FACTORÍA DE FICCIÓN FHD
+#EXTINF:-1 tvg-id="fdfic.movistarplus.es" tvg-name="ES: FACTORÍA DE FICCIÓN FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ES | M+ GENERALISTAS",ES: FACTORÍA DE FICCIÓN FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76788
-#EXTINF:-1 tvg-id="ENERGY" tvg-name="ES: ENERGY HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="ES | GENERALISTAS",ES: ENERGY HD
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ES: ENERGY HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="ES | M+ GENERALISTAS",ES: ENERGY HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76806
-#EXTINF:-1 tvg-id="ENERGY" tvg-name="ES: ENERGY FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="ES | GENERALISTAS",ES: ENERGY FHD
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ES: ENERGY FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="ES | M+ GENERALISTAS",ES: ENERGY FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76787
-#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES: DIVINITY HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Divinity.png" group-title="ES | GENERALISTAS",ES: DIVINITY HD
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES: DIVINITY HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Divinity.png" group-title="ES | M+ GENERALISTAS",ES: DIVINITY HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77215
-#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES: DIVINITY FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Divinity.png" group-title="ES | GENERALISTAS",ES: DIVINITY FHD
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES: DIVINITY FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Divinity.png" group-title="ES | M+ GENERALISTAS",ES: DIVINITY FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77206
-#EXTINF:-1 tvg-id="Be Mad HD" tvg-name="ES: BE MAD HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ES | GENERALISTAS",ES: BE MAD HD
+#EXTINF:-1 tvg-id="Be Mad HD" tvg-name="ES: BE MAD HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ES | M+ GENERALISTAS",ES: BE MAD HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77115
-#EXTINF:-1 tvg-id="Be Mad HD" tvg-name="ES: BE MAD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ES | GENERALISTAS",ES: BE MAD FHD
+#EXTINF:-1 tvg-id="Be Mad HD" tvg-name="ES: BE MAD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ES | M+ GENERALISTAS",ES: BE MAD FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77078
-#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="ES: LA SEXTA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | GENERALISTAS",ES: LA SEXTA HD
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="ES: LA SEXTA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | M+ GENERALISTAS",ES: LA SEXTA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76803
-#EXTINF:-1 tvg-id="sexta.movistarplus.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | GENERALISTAS",ES: LA SEXTA FHD
+#EXTINF:-1 tvg-id="sexta.movistarplus.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | M+ GENERALISTAS",ES: LA SEXTA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76784
-#EXTINF:-1 tvg-id="La Séptima" tvg-name="ES: La Septima SD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima SD
+#EXTINF:-1 tvg-id="La Séptima" tvg-name="ES: La Septima SD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | M+ GENERALISTAS",ES: La Septima SD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/78574
-#EXTINF:-1 tvg-id="La Séptima" tvg-name="ES: La Septima HD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima HD
+#EXTINF:-1 tvg-id="La Séptima" tvg-name="ES: La Septima HD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | M+ GENERALISTAS",ES: La Septima HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/78573
-#EXTINF:-1 tvg-id="La Séptima" tvg-name="ES: La Septima FHD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | GENERALISTAS",ES: La Septima FHD
+#EXTINF:-1 tvg-id="La Séptima" tvg-name="ES: La Septima FHD" tvg-logo="https://docdog.top/logo/countries/new/es/La_Séptima.svg.webp" group-title="ES | M+ GENERALISTAS",ES: La Septima FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/78572
-#EXTINF:-1 tvg-id="TEN" tvg-name="ES: TEN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ten.png" group-title="ES | GENERALISTAS",ES: TEN HD
+#EXTINF:-1 tvg-id="TEN" tvg-name="ES: TEN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ten.png" group-title="ES | M+ GENERALISTAS",ES: TEN HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77219
-#EXTINF:-1 tvg-id="TEN" tvg-name="ES: TEN FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ten.png" group-title="ES | GENERALISTAS",ES: TEN FHD
+#EXTINF:-1 tvg-id="TEN" tvg-name="ES: TEN FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ten.png" group-title="ES | M+ GENERALISTAS",ES: TEN FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77210
-#EXTINF:-1 tvg-id="DKISS" tvg-name="ES: DKISS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DKISS.png" group-title="ES | GENERALISTAS",ES: DKISS HD
+#EXTINF:-1 tvg-id="DKISS" tvg-name="ES: DKISS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DKISS.png" group-title="ES | M+ GENERALISTAS",ES: DKISS HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77220
-#EXTINF:-1 tvg-id="DKISS" tvg-name="ES: DKISS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DKISS.png" group-title="ES | ESTILO DE VIDA",ES: DKISS FHD
+#EXTINF:-1 tvg-id="DKISS" tvg-name="ES: DKISS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DKISS.png" group-title="ES | M+ ESTILO DE VIDA",ES: DKISS FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77211
-#EXTINF:-1 tvg-id="squi.movistarplus.es" tvg-name="ES: SQUIRREL TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/SQUIRREL_TV.png" group-title="ES | GENERALISTAS",ES: SQUIRREL TV HD
+#EXTINF:-1 tvg-id="squi.movistarplus.es" tvg-name="ES: SQUIRREL TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/SQUIRREL_TV.png" group-title="ES | M+ GENERALISTAS",ES: SQUIRREL TV HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77131
-#EXTINF:-1 tvg-id="squi.movistarplus.es" tvg-name="ES: SQUIRREL TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/SQUIRREL_TV.png" group-title="ES | GENERALISTAS",ES: SQUIRREL TV FHD
+#EXTINF:-1 tvg-id="squi.movistarplus.es" tvg-name="ES: SQUIRREL TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/SQUIRREL_TV.png" group-title="ES | M+ GENERALISTAS",ES: SQUIRREL TV FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77095
-#EXTINF:-1 tvg-id="SQUIRREL 2" tvg-name="ES: PARAMOUNT CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ES | GENERALISTAS",ES: SQUIRREL 2 HD
+#EXTINF:-1 tvg-id="SQUIRREL 2" tvg-name="ES: PARAMOUNT CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ES | M+ GENERALISTAS",ES: SQUIRREL 2 HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77114
-#EXTINF:-1 tvg-id="SQUIRREL 2" tvg-name="ES: PARAMOUNT CHANNEL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ES | GENERALISTAS",ES: SQUIRREL 2 FHD
+#EXTINF:-1 tvg-id="SQUIRREL 2" tvg-name="ES: PARAMOUNT CHANNEL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ES | M+ GENERALISTAS",ES: SQUIRREL 2 FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77077
-#EXTINF:-1 tvg-id="13tv.movistarplus.es" tvg-name="ES: TRECE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ES | GENERALISTAS",ES: TRECE HD
+#EXTINF:-1 tvg-id="13tv.movistarplus.es" tvg-name="ES: TRECE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ES | M+ GENERALISTAS",ES: TRECE HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76810
-#EXTINF:-1 tvg-id="13tv.movistarplus.es" tvg-name="ES: TRECE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ES | GENERALISTAS",ES: TRECE FHD
+#EXTINF:-1 tvg-id="13tv.movistarplus.es" tvg-name="ES: TRECE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ES | M+ GENERALISTAS",ES: TRECE FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76791
-#EXTINF:-1 tvg-id="inteco.movistarplus.es" tvg-name="ES: EL TORO TV HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | GENERALISTAS",ES: EL TORO TV HD
+#EXTINF:-1 tvg-id="inteco.movistarplus.es" tvg-name="ES: EL TORO TV HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | M+ GENERALISTAS",ES: EL TORO TV HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76812
-#EXTINF:-1 tvg-id="inteco.movistarplus.es" tvg-name="ES: EL TORO TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | GENERALISTAS",ES: EL TORO TV FHD
+#EXTINF:-1 tvg-id="inteco.movistarplus.es" tvg-name="ES: EL TORO TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | M+ GENERALISTAS",ES: EL TORO TV FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76793
-#EXTINF:-1 tvg-id="BOM" tvg-name="ES: BOM CINE HD" tvg-logo="https://docdog.top/logo/countries/new/es/BOM_CINE.png" group-title="ES | GENERALISTAS",ES: BOM CINE HD
+#EXTINF:-1 tvg-id="BOM" tvg-name="ES: BOM CINE HD" tvg-logo="https://docdog.top/logo/countries/new/es/BOM_CINE.png" group-title="ES | M+ GENERALISTAS",ES: BOM CINE HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77132
-#EXTINF:-1 tvg-id="BOM" tvg-name="ES: BOM CINE FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BOM_CINE.png" group-title="ES | GENERALISTAS",ES: BOM CINE FHD
+#EXTINF:-1 tvg-id="BOM" tvg-name="ES: BOM CINE FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BOM_CINE.png" group-title="ES | M+ GENERALISTAS",ES: BOM CINE FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77096
 
-#EXTINF:-1 tvg-id="tvc.movistarplus.es" tvg-name="ES: TV3 CAT HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV3_Cat.png" group-title="ES | AUTONOMICOS",ES: TV3 CAT HD
+#EXTINF:-1 tvg-id="tvc.movistarplus.es" tvg-name="ES: TV3 CAT HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV3_Cat.png" group-title="ES | M+ AUTONOMICOS",ES: TV3 CAT HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76813
-#EXTINF:-1 tvg-id="tvc.movistarplus.es" tvg-name="ES: TV3 CAT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV3_Cat.png" group-title="ES | AUTONOMICOS",ES: TV3 CAT FHD
+#EXTINF:-1 tvg-id="tvc.movistarplus.es" tvg-name="ES: TV3 CAT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV3_Cat.png" group-title="ES | M+ AUTONOMICOS",ES: TV3 CAT FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76794
-#EXTINF:-1 tvg-id="" tvg-name="ES: A PUNT" tvg-logo="https://docdog.top/logo/countries/es/A_PUNT.png" group-title="ES | AUTONOMICOS",ES: A PUNT
+#EXTINF:-1 tvg-id="" tvg-name="ES: A PUNT" tvg-logo="https://docdog.top/logo/countries/es/A_PUNT.png" group-title="ES | M+ AUTONOMICOS",ES: A PUNT
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77250
-#EXTINF:-1 tvg-id="" tvg-name="ES: TV CANARIA HD" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="ES | AUTONOMICOS",ES: TV CANARIA HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV CANARIA HD" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="ES | M+ AUTONOMICOS",ES: TV CANARIA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76817
-#EXTINF:-1 tvg-id="" tvg-name="ES: TV CANARIA FHD" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="ES | AUTONOMICOS",ES: TV CANARIA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV CANARIA FHD" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="ES | M+ AUTONOMICOS",ES: TV CANARIA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76797
-#EXTINF:-1 tvg-id="cansur.movistarplus.es" tvg-name="ES: CANAL SUR ANDALUCÍA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png" group-title="ES | AUTONOMICOS",ES: CANAL SUR ANDALUCÍA HD
+#EXTINF:-1 tvg-id="cansur.movistarplus.es" tvg-name="ES: CANAL SUR ANDALUCÍA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png" group-title="ES | M+ AUTONOMICOS",ES: CANAL SUR ANDALUCÍA HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77200
-#EXTINF:-1 tvg-id="cansur.movistarplus.es" tvg-name="ES: CANAL SUR ANDALUCÍA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png" group-title="ES | AUTONOMICOS",ES: CANAL SUR ANDALUCÍA FHD
+#EXTINF:-1 tvg-id="cansur.movistarplus.es" tvg-name="ES: CANAL SUR ANDALUCÍA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png" group-title="ES | M+ AUTONOMICOS",ES: CANAL SUR ANDALUCÍA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77189
-#EXTINF:-1 tvg-id="telmad.movistarplus.es" tvg-name="ES: TELEMADRID INT HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png" group-title="ES | AUTONOMICOS",ES: TELEMADRID INT HD
+#EXTINF:-1 tvg-id="telmad.movistarplus.es" tvg-name="ES: TELEMADRID INT HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png" group-title="ES | M+ AUTONOMICOS",ES: TELEMADRID INT HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77203
-#EXTINF:-1 tvg-id="telmad.movistarplus.es" tvg-name="ES: TELEMADRID INT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png" group-title="ES | AUTONOMICOS",ES: TELEMADRID INT FHD
+#EXTINF:-1 tvg-id="telmad.movistarplus.es" tvg-name="ES: TELEMADRID INT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png" group-title="ES | M+ AUTONOMICOS",ES: TELEMADRID INT FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77194
-#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGÓN TV INT HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png" group-title="ES | AUTONOMICOS",ES: ARAGÓN TV INT HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGÓN TV INT HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png" group-title="ES | M+ AUTONOMICOS",ES: ARAGÓN TV INT HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77202
-#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGÓN TV INT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png" group-title="ES | AUTONOMICOS",ES: ARAGÓN TV INT FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGÓN TV INT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png" group-title="ES | M+ AUTONOMICOS",ES: ARAGÓN TV INT FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77192
-#EXTINF:-1 tvg-id="etb.movistarplus.es" tvg-name="ES: EITB BASQUE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/EITB_Basque.png" group-title="ES | AUTONOMICOS",ES: EITB BASQUE FHD
+#EXTINF:-1 tvg-id="etb.movistarplus.es" tvg-name="ES: EITB BASQUE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/EITB_Basque.png" group-title="ES | M+ AUTONOMICOS",ES: EITB BASQUE FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77193
-#EXTINF:-1 tvg-id="tvgal.movistarplus.es" tvg-name="ES: TVG EUROPA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TVG_Europa.png" group-title="ES | AUTONOMICOS",ES: TVG EUROPA FHD
+#EXTINF:-1 tvg-id="tvgal.movistarplus.es" tvg-name="ES: TVG EUROPA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TVG_Europa.png" group-title="ES | M+ AUTONOMICOS",ES: TVG EUROPA FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77190
-#EXTINF:-1 tvg-id="EXTMADU" tvg-name="ES: CANAL EXTREMADURA SAT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png" group-title="ES | AUTONOMICOS",ES: CANAL EXTREMADURA SAT FHD
+#EXTINF:-1 tvg-id="EXTMADU" tvg-name="ES: CANAL EXTREMADURA SAT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png" group-title="ES | M+ AUTONOMICOS",ES: CANAL EXTREMADURA SAT FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77191
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL EXTREMADURA SAT HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png" group-title="ES | AUTONOMICOS",ES: CANAL EXTREMADURA SAT HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL EXTREMADURA SAT HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png" group-title="ES | M+ AUTONOMICOS",ES: CANAL EXTREMADURA SAT HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77201
-#EXTINF:-1 tvg-id="" tvg-name="ES: ONDA CADIZ RTV HD" tvg-logo="https://docdog.top/logo/countries/new/es/ES_-_ONDA_CADIZ_RTV.png" group-title="ES | AUTONOMICOS",ES: ONDA CADIZ RTV HD
+#EXTINF:-1 tvg-id="" tvg-name="ES: ONDA CADIZ RTV HD" tvg-logo="https://docdog.top/logo/countries/new/es/ES_-_ONDA_CADIZ_RTV.png" group-title="ES | M+ AUTONOMICOS",ES: ONDA CADIZ RTV HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76818
-#EXTINF:-1 tvg-id="" tvg-name="ES: ONDA CADIZ RTV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/ES_-_ONDA_CADIZ_RTV.png" group-title="ES | AUTONOMICOS",ES: ONDA CADIZ RTV FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: ONDA CADIZ RTV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/ES_-_ONDA_CADIZ_RTV.png" group-title="ES | M+ AUTONOMICOS",ES: ONDA CADIZ RTV FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76799
-#EXTINF:-1 tvg-id="" tvg-name="ES: CASTILLA LA MANCHA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" group-title="ES | AUTONOMICOS",ES: CASTILLA LA MANCHA
+#EXTINF:-1 tvg-id="" tvg-name="ES: CASTILLA LA MANCHA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" group-title="ES | M+ AUTONOMICOS",ES: CASTILLA LA MANCHA
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77249
-#EXTINF:-1 tvg-id="EWTN.es" tvg-name="ES: EWTN HD" tvg-logo="https://docdog.top/logo/countries/new/es/EWTN.png" group-title="ES | AUTONOMICOS",ES: EWTN HD
+#EXTINF:-1 tvg-id="EWTN.es" tvg-name="ES: EWTN HD" tvg-logo="https://docdog.top/logo/countries/new/es/EWTN.png" group-title="ES | M+ AUTONOMICOS",ES: EWTN HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76816
-#EXTINF:-1 tvg-id="ewtn.movistarplus.es" tvg-name="ES: EWTN FHD" tvg-logo="https://docdog.top/logo/countries/new/es/EWTN.png" group-title="ES | AUTONOMICOS",ES: EWTN FHD
+#EXTINF:-1 tvg-id="ewtn.movistarplus.es" tvg-name="ES: EWTN FHD" tvg-logo="https://docdog.top/logo/countries/new/es/EWTN.png" group-title="ES | M+ AUTONOMICOS",ES: EWTN FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/76798
 
-#EXTINF:-1 tvg-id="Garage TV HD" tvg-name="ES: EL GARAGE TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/EL_GARAGE_TV.png" group-title="ES | OTROS",ES: EL GARAGE TV HD
+#EXTINF:-1 tvg-id="Garage TV HD" tvg-name="ES: EL GARAGE TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/EL_GARAGE_TV.png" group-title="ES | M+ OTROS",ES: EL GARAGE TV HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77168
-#EXTINF:-1 tvg-id="Garage TV" tvg-name="ES: EL GARAGE TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/EL_GARAGE_TV.png" group-title="ES | OTROS",ES: EL GARAGE TV FHD
+#EXTINF:-1 tvg-id="Garage TV" tvg-name="ES: EL GARAGE TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/EL_GARAGE_TV.png" group-title="ES | M+ OTROS",ES: EL GARAGE TV FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77148
-#EXTINF:-1 tvg-id="Gametoon" tvg-name="ES: GAMETOON HD" tvg-logo="https://docdog.top/logo/countries/new/es/GAMETOON.png" group-title="ES | VIDEOJUEGOS",ES: GAMETOON HD
+#EXTINF:-1 tvg-id="Gametoon" tvg-name="ES: GAMETOON HD" tvg-logo="https://docdog.top/logo/countries/new/es/GAMETOON.png" group-title="ES | M+ VIDEOJUEGOS",ES: GAMETOON HD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77133
-#EXTINF:-1 tvg-id="Gametoon" tvg-name="ES: GAMETOON FHD" tvg-logo="https://docdog.top/logo/countries/new/es/GAMETOON.png" group-title="ES | VIDEOJUEGOS",ES: GAMETOON FHD
+#EXTINF:-1 tvg-id="Gametoon" tvg-name="ES: GAMETOON FHD" tvg-logo="https://docdog.top/logo/countries/new/es/GAMETOON.png" group-title="ES | M+ VIDEOJUEGOS",ES: GAMETOON FHD
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77097
+
+#EXTINF:-1 tvg-id="tve.movistarplus.es" tvg-name="ES: LA 1 HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/LA_1_HD.png" group-title="ES | VODAFONE TV",ES: LA 1 HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78464
+#EXTINF:-1 tvg-id="la2.movistarplus.es" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/LA_2.png" group-title="ES | VODAFONE TV",ES: LA 2
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78465
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ANTENA_3_HD.png" group-title="ES | VODAFONE TV",ES: ANTENA 3 HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78466
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CUATRO_HD.png" group-title="ES | VODAFONE TV",ES: CUATRO HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78467
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="ES: TELECINCO HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TELECINCO_HD.png" group-title="ES | VODAFONE TV",ES: TELECINCO HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78468
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="ES: LA SEXTA HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/LA_SEXTA_HD.png" group-title="ES | VODAFONE TV",ES: LA SEXTA HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78469
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL INVITADO" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_INVITADO.png" group-title="ES | VODAFONE TV",ES: CANAL INVITADO
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78470
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL INVITADO 2" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_INVITADO_2.png" group-title="ES | VODAFONE TV",ES: CANAL INVITADO 2
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78471
+#EXTINF:-1 tvg-id="SELEKT" tvg-name="ES: SELEKT" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SELEKT.png" group-title="ES | VODAFONE TV",ES: SELEKT
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78472
+#EXTINF:-1 tvg-id="STAR Channel" tvg-name="ES: STAR CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/STAR_CHANNEL_HD.png" group-title="ES | VODAFONE TV",ES: STAR CHANNEL HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78473
+#EXTINF:-1 tvg-id="AMC+ Connect" tvg-name="ES: AMC+ CONNECT" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AMC_CONNECT.png" group-title="ES | VODAFONE TV",ES: AMC+ CONNECT
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78474
+#EXTINF:-1 tvg-id="tnt.movistarplus.es" tvg-name="ES: WARNER TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/WARNER_TV_HD.png" group-title="ES | VODAFONE TV",ES: WARNER TV HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78475
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES: AXN HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AXN_HD.png" group-title="ES | VODAFONE TV",ES: AXN HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78476
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="ES: COSMO HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/COSMO_HD.png" group-title="ES | VODAFONE TV",ES: COSMO HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78477
+#EXTINF:-1 tvg-id="AMC Anime" tvg-name="ES: AMC ANIME" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AMC_ANIME.png" group-title="ES | VODAFONE TV",ES: AMC ANIME
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78478
+#EXTINF:-1 tvg-id="BBC SERIES" tvg-name="ES: BBC SERIES" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BBC_SERIES.png" group-title="ES | VODAFONE TV",ES: BBC SERIES
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78479
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="ES: AXN MOVIES HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AXN_MOVIES_HD.png" group-title="ES | VODAFONE TV",ES: AXN MOVIES HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78480
+#EXTINF:-1 tvg-id="VinTV" tvg-name="ES: VIN TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/VIN_TV.png" group-title="ES | VODAFONE TV",ES: VIN TV
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78481
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="ES: CANAL HOLLYWOOD HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_HOLLYWOOD_HD.png" group-title="ES | VODAFONE TV",ES: CANAL HOLLYWOOD HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78482
+#EXTINF:-1 tvg-id="AMC" tvg-name="ES: AMC HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AMC_HD.png" group-title="ES | VODAFONE TV",ES: AMC HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78483
+#EXTINF:-1 tvg-id="XTRM" tvg-name="ES: XTRM" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/XTRM.png" group-title="ES | VODAFONE TV",ES: XTRM
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78484
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES: TCM HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TCM_HD.png" group-title="ES | VODAFONE TV",ES: TCM HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78485
+#EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DARK.png" group-title="ES | VODAFONE TV",ES: DARK
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78486
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="ES: SUNDANCE TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SUNDANCE_TV.png" group-title="ES | VODAFONE TV",ES: SUNDANCE TV
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78487
+#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SOMOS.png" group-title="ES | VODAFONE TV",ES: SOMOS
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78488
+#EXTINF:-1 tvg-id="BOM" tvg-name="ES: BOM CINE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BOM_CINE.png" group-title="ES | VODAFONE TV",ES: BOM CINE
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78489
+#EXTINF:-1 tvg-id="SQUIRREL" tvg-name="ES: SQUIRREL" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SQUIRREL.png" group-title="ES | VODAFONE TV",ES: SQUIRREL
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78490
+#EXTINF:-1 tvg-id="SQUIRREL 2" tvg-name="ES: SQUIRREL 2" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SQUIRREL_2.png" group-title="ES | VODAFONE TV",ES: SQUIRREL 2
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78491
+#EXTINF:-1 tvg-id="Clan HD" tvg-name="ES: CLAN" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CLAN.png" group-title="ES | VODAFONE TV",ES: CLAN
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78492
+#EXTINF:-1 tvg-id="BOING" tvg-name="ES: BOING" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BOING.png" group-title="ES | VODAFONE TV",ES: BOING
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78493
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="ES: DISNEY JUNIOR" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DISNEY_JUNIOR.png" group-title="ES | VODAFONE TV",ES: DISNEY JUNIOR
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78494
+#EXTINF:-1 tvg-id="baby.movistarplus.es" tvg-name="ES: BABY TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BABY_TV.png" group-title="ES | VODAFONE TV",ES: BABY TV
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78495
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ODISEA.png" group-title="ES | VODAFONE TV",ES: ODISEA
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78496
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="ES: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DISCOVERY.png" group-title="ES | VODAFONE TV",ES: DISCOVERY
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78497
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES: HISTORIA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/HISTORIA.png" group-title="ES | VODAFONE TV",ES: HISTORIA
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78498
+#EXTINF:-1 tvg-id="natgeo.movistarplus.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/NATIONAL_GEOGRAPHIC_HD.png" group-title="ES | VODAFONE TV",ES: NATIONAL GEOGRAPHIC HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78499
+#EXTINF:-1 tvg-id="natgw.movistarplus.es" tvg-name="ES: NAT GEO WILD HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/NAT_GEO_WILD_HD.png" group-title="ES | VODAFONE TV",ES: NAT GEO WILD HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78500
+#EXTINF:-1 tvg-id="Escapa TV" tvg-name="ES: ESCAPA TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ESCAPA_TV.png" group-title="ES | VODAFONE TV",ES: ESCAPA TV
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78501
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="ES: AMC BREAK" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AMC_BREAK.png" group-title="ES | VODAFONE TV",ES: AMC BREAK
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78502
+#EXTINF:-1 tvg-id="" tvg-name="ES: BUENVIAJE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BUENVIAJE.png" group-title="ES | VODAFONE TV",ES: BUENVIAJE
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78503
+#EXTINF:-1 tvg-id="BBC TOP GEAR" tvg-name="ES: BBC TOP GEAR" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BBC_TOP_GEAR.png" group-title="ES | VODAFONE TV",ES: BBC TOP GEAR
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78504
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="ES: CANAL COCINA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_COCINA.png" group-title="ES | VODAFONE TV",ES: CANAL COCINA
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78505
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="ES: AMC CRIME" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AMC_CRIME.png" group-title="ES | VODAFONE TV",ES: AMC CRIME
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78506
+#EXTINF:-1 tvg-id="" tvg-name="ES: DECASA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DECASA.png" group-title="ES | VODAFONE TV",ES: DECASA
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78507
+#EXTINF:-1 tvg-id="" tvg-name="ES: MYZEN TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/MYZEN_TV.png" group-title="ES | VODAFONE TV",ES: MYZEN TV
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78508
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL GALERIA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_GALERIA.png" group-title="ES | VODAFONE TV",ES: CANAL GALERIA
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78509
+#EXTINF:-1 tvg-id="SOLMUSC" tvg-name="ES: SOL MUSICA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SOL_MUSICA.png" group-title="ES | VODAFONE TV",ES: SOL MUSICA
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78510
+#EXTINF:-1 tvg-id="fdfic.movistarplus.es" tvg-name="ES: FACTORIA DE FICCION" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/FACTORIA_DE_FICCION.png" group-title="ES | VODAFONE TV",ES: FACTORIA DE FICCION
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78511
+#EXTINF:-1 tvg-id="Neox HD" tvg-name="ES: NEOX" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/NEOX.png" group-title="ES | VODAFONE TV",ES: NEOX
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78512
+#EXTINF:-1 tvg-id="Nova HD" tvg-name="ES: NOVA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/NOVA.png" group-title="ES | VODAFONE TV",ES: NOVA
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78513
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES: DIVINITY" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DIVINITY.png" group-title="ES | VODAFONE TV",ES: DIVINITY
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78514
+#EXTINF:-1 tvg-id="Mega" tvg-name="ES: MEGA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/MEGA.png" group-title="ES | VODAFONE TV",ES: MEGA
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78515
+#EXTINF:-1 tvg-id="TRECE" tvg-name="ES: TRECE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TRECE.png" group-title="ES | VODAFONE TV",ES: TRECE
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78516
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ES: ENERGY" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ENERGY.png" group-title="ES | VODAFONE TV",ES: ENERGY
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78517
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES: ATRESERIES" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ATRESERIES.png" group-title="ES | VODAFONE TV",ES: ATRESERIES
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78518
+#EXTINF:-1 tvg-id="Be Mad HD" tvg-name="ES: BE MAD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BE_MAD.png" group-title="ES | VODAFONE TV",ES: BE MAD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78519
+#EXTINF:-1 tvg-id="DMAX" tvg-name="ES: DMAX" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DMAX.png" group-title="ES | VODAFONE TV",ES: DMAX
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78520
+#EXTINF:-1 tvg-id="DKISS" tvg-name="ES: DKISS" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DKISS.png" group-title="ES | VODAFONE TV",ES: DKISS
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78521
+#EXTINF:-1 tvg-id="TEN" tvg-name="ES: TEN" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TEN.png" group-title="ES | VODAFONE TV",ES: TEN
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78522
+#EXTINF:-1 tvg-id="24h.movistarplus.es" tvg-name="ES: 24 HORAS" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/24_HORAS.png" group-title="ES | VODAFONE TV",ES: 24 HORAS
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78523
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EL_TORO_TV.png" group-title="ES | VODAFONE TV",ES: EL TORO TV
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78524
+#EXTINF:-1 tvg-id="enw.movistarplus.es" tvg-name="ES: EURONEWS" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EURONEWS.png" group-title="ES | VODAFONE TV",ES: EURONEWS
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78525
+#EXTINF:-1 tvg-id="CNN Int." tvg-name="ES: CNN INTERNATIONAL EUROPE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CNN_INTERNATIONAL_EUROPE.png" group-title="ES | VODAFONE TV",ES: CNN INTERNATIONAL EUROPE
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78526
+#EXTINF:-1 tvg-id="CNBC Europe" tvg-name="ES: CNBC EUROPE HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CNBC_EUROPE_HD.png" group-title="ES | VODAFONE TV",ES: CNBC EUROPE HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78527
+#EXTINF:-1 tvg-id="Bloomberg Europe TV" tvg-name="ES: BLOOMBERG TV EUROPE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BLOOMBERG_TV_EUROPE.png" group-title="ES | VODAFONE TV",ES: BLOOMBERG TV EUROPE
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78528
+#EXTINF:-1 tvg-id="BBC World News Europe HD" tvg-name="ES: BBC WORLD NEWS EUROPE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BBC_WORLD_NEWS_EUROPE.png" group-title="ES | VODAFONE TV",ES: BBC WORLD NEWS EUROPE
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78529
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="ES: AL JAZEERA ENGLISH HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AL_JAZEERA_ENGLISH_HD.png" group-title="ES | VODAFONE TV",ES: AL JAZEERA ENGLISH HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78530
+#EXTINF:-1 tvg-id="cctv-e.movistarplus.es" tvg-name="ES: CGTN ESPANOL" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CGTN_ESPANOL.png" group-title="ES | VODAFONE TV",ES: CGTN ESPANOL
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78531
+#EXTINF:-1 tvg-id="France 24 (en Francais)" tvg-name="ES: FRANCE 24" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/FRANCE_24.png" group-title="ES | VODAFONE TV",ES: FRANCE 24
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78532
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL PARLAMENTO" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_PARLAMENTO.png" group-title="ES | VODAFONE TV",ES: CANAL PARLAMENTO
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78533
+#EXTINF:-1 tvg-id="EWTN" tvg-name="ES: EWTN" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EWTN.png" group-title="ES | VODAFONE TV",ES: EWTN
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78534
+#EXTINF:-1 tvg-id="inteua.movistarplus.es" tvg-name="ES: 1+1" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/1_1.png" group-title="ES | VODAFONE TV",ES: 1+1
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78535
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EUROSPORT_1_HD.png" group-title="ES | VODAFONE TV",ES: EUROSPORT 1 HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78536
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EUROSPORT_2.png" group-title="ES | VODAFONE TV",ES: EUROSPORT 2
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78537
+#EXTINF:-1 tvg-id="Teledeporte HD" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TELEDEPORTE.png" group-title="ES | VODAFONE TV",ES: TELEDEPORTE
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78538
+#EXTINF:-1 tvg-id="" tvg-name="ES: EXTREME SPORTS" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EXTREME_SPORTS.png" group-title="ES | VODAFONE TV",ES: EXTREME SPORTS
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78539
+#EXTINF:-1 tvg-id="tve.movistarplus.es" tvg-name="ES: CAZAVISIóN" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CAZAVISION.png" group-title="ES | VODAFONE TV",ES: CAZAVISIóN
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78540
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES: IBERALIA TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/IBERALIA_TV.png" group-title="ES | VODAFONE TV",ES: IBERALIA TV
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78541
+#EXTINF:-1 tvg-id="OneToro TV" tvg-name="ES: ONETORO" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ONETORO.png" group-title="ES | VODAFONE TV",ES: ONETORO
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78542
+#EXTINF:-1 tvg-id="" tvg-name="ES: SURF CHANNEL" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SURF_CHANNEL.png" group-title="ES | VODAFONE TV",ES: SURF CHANNEL
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78543
+#EXTINF:-1 tvg-id="gol.movistarplus.es" tvg-name="ES: GOL" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/GOL.png" group-title="ES | VODAFONE TV",ES: GOL
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78544
+#EXTINF:-1 tvg-id="Real Madrid TV HD" tvg-name="ES: REAL MADRID TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/REAL_MADRID_TV_HD.png" group-title="ES | VODAFONE TV",ES: REAL MADRID TV HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78545
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="ES: BETIS TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BETIS_TV.png" group-title="ES | VODAFONE TV",ES: BETIS TV
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78546
+#EXTINF:-1 tvg-id="" tvg-name="ES: SEVILLA FC TELEVISION" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SEVILLA_FC_TELEVISION.png" group-title="ES | VODAFONE TV",ES: SEVILLA FC TELEVISION
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78547
+#EXTINF:-1 tvg-id="" tvg-name="ES: EL TRECE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EL_TRECE.png" group-title="ES | VODAFONE TV",ES: EL TRECE
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78548
+#EXTINF:-1 tvg-id="" tvg-name="ES: VE PLUS" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/VE_PLUS.png" group-title="ES | VODAFONE TV",ES: VE PLUS
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78549
+#EXTINF:-1 tvg-id="" tvg-name="ES: CORAZON" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CORAZON.png" group-title="ES | VODAFONE TV",ES: CORAZON
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78550
+#EXTINF:-1 tvg-id="chile.movistarplus.es" tvg-name="ES: TV CHILE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TV_CHILE.png" group-title="ES | VODAFONE TV",ES: TV CHILE
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78551
+#EXTINF:-1 tvg-id="Cubavision Internacional" tvg-name="ES: CUBAVISION INTERNACIONAL HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CUBAVISION_INTERNACIONAL_HD.png" group-title="ES | VODAFONE TV",ES: CUBAVISION INTERNACIONAL HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78552
+#EXTINF:-1 tvg-id="" tvg-name="ES: DEUTSCHE WELLE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DEUTSCHE_WELLE.png" group-title="ES | VODAFONE TV",ES: DEUTSCHE WELLE
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78553
+#EXTINF:-1 tvg-id="TV5MONDE" tvg-name="ES: TV5 MONDE EUROPE HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TV5_MONDE_EUROPE_HD.png" group-title="ES | VODAFONE TV",ES: TV5 MONDE EUROPE HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78554
+#EXTINF:-1 tvg-id="" tvg-name="ES: AL AOULA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AL_AOULA.png" group-title="ES | VODAFONE TV",ES: AL AOULA
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78555
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVP" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TVP.png" group-title="ES | VODAFONE TV",ES: TVP
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78556
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRO TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/PRO_TV.png" group-title="ES | VODAFONE TV",ES: PRO TV
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78557
+#EXTINF:-1 tvg-id="tvgal.movistarplus.es" tvg-name="ES: TV GALICIA HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TV_GALICIA_HD.png" group-title="ES | VODAFONE TV",ES: TV GALICIA HD
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78558
+#EXTINF:-1 tvg-id="TV3" tvg-name="ES: TV3" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TV3.png" group-title="ES | VODAFONE TV",ES: TV3
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78559
+#EXTINF:-1 tvg-id="Andalucia TV" tvg-name="ES: ANDALUCIA TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ANDALUCIA_TV.png" group-title="ES | VODAFONE TV",ES: ANDALUCIA TV
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78560
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-name="ES: CANAL EXTREMADURA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_EXTREMADURA.png" group-title="ES | VODAFONE TV",ES: CANAL EXTREMADURA
+http://sfnooesvp.top:8080/heir001/Hehe321@espro/78561
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: RAKUTENTV PELIS TOP" tvg-logo="https://docdog.top/logo/countries/new/es/RAKUTENTV_PELIS_TOP.png" group-title="ES | RAKUTEN TV",ES: RAKUTENTV PELIS TOP
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/77254
@@ -2037,199 +2234,3 @@ http://sfnooesvp.top:8080/heir001/Hehe321@espro/78038
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/78039
 #EXTINF:-1 tvg-id="" tvg-name="ES: AGUILA ROJA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AGUILA_ROJA.png" group-title="ES | TIVIFY",ES: AGUILA ROJA
 http://sfnooesvp.top:8080/heir001/Hehe321@espro/78040
-#EXTINF:-1 tvg-id="tve.movistarplus.es" tvg-name="ES: LA 1 HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/LA_1_HD.png" group-title="ES | VODAFONE",ES: LA 1 HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78464
-#EXTINF:-1 tvg-id="la2.movistarplus.es" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/LA_2.png" group-title="ES | VODAFONE",ES: LA 2
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78465
-#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ANTENA_3_HD.png" group-title="ES | VODAFONE",ES: ANTENA 3 HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78466
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: CUATRO HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CUATRO_HD.png" group-title="ES | VODAFONE",ES: CUATRO HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78467
-#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="ES: TELECINCO HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TELECINCO_HD.png" group-title="ES | VODAFONE",ES: TELECINCO HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78468
-#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="ES: LA SEXTA HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/LA_SEXTA_HD.png" group-title="ES | VODAFONE",ES: LA SEXTA HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78469
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL INVITADO" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_INVITADO.png" group-title="ES | VODAFONE",ES: CANAL INVITADO
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78470
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL INVITADO 2" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_INVITADO_2.png" group-title="ES | VODAFONE",ES: CANAL INVITADO 2
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78471
-#EXTINF:-1 tvg-id="SELEKT" tvg-name="ES: SELEKT" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SELEKT.png" group-title="ES | VODAFONE",ES: SELEKT
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78472
-#EXTINF:-1 tvg-id="STAR Channel" tvg-name="ES: STAR CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/STAR_CHANNEL_HD.png" group-title="ES | VODAFONE",ES: STAR CHANNEL HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78473
-#EXTINF:-1 tvg-id="AMC+ Connect" tvg-name="ES: AMC+ CONNECT" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AMC_CONNECT.png" group-title="ES | VODAFONE",ES: AMC+ CONNECT
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78474
-#EXTINF:-1 tvg-id="tnt.movistarplus.es" tvg-name="ES: WARNER TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/WARNER_TV_HD.png" group-title="ES | VODAFONE",ES: WARNER TV HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78475
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES: AXN HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AXN_HD.png" group-title="ES | VODAFONE",ES: AXN HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78476
-#EXTINF:-1 tvg-id="COSMO HD" tvg-name="ES: COSMO HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/COSMO_HD.png" group-title="ES | VODAFONE",ES: COSMO HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78477
-#EXTINF:-1 tvg-id="AMC Anime" tvg-name="ES: AMC ANIME" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AMC_ANIME.png" group-title="ES | VODAFONE",ES: AMC ANIME
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78478
-#EXTINF:-1 tvg-id="BBC SERIES" tvg-name="ES: BBC SERIES" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BBC_SERIES.png" group-title="ES | VODAFONE",ES: BBC SERIES
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78479
-#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="ES: AXN MOVIES HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AXN_MOVIES_HD.png" group-title="ES | VODAFONE",ES: AXN MOVIES HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78480
-#EXTINF:-1 tvg-id="VinTV" tvg-name="ES: VIN TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/VIN_TV.png" group-title="ES | VODAFONE",ES: VIN TV
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78481
-#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="ES: CANAL HOLLYWOOD HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_HOLLYWOOD_HD.png" group-title="ES | VODAFONE",ES: CANAL HOLLYWOOD HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78482
-#EXTINF:-1 tvg-id="AMC" tvg-name="ES: AMC HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AMC_HD.png" group-title="ES | VODAFONE",ES: AMC HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78483
-#EXTINF:-1 tvg-id="XTRM" tvg-name="ES: XTRM" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/XTRM.png" group-title="ES | VODAFONE",ES: XTRM
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78484
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES: TCM HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TCM_HD.png" group-title="ES | VODAFONE",ES: TCM HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78485
-#EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DARK.png" group-title="ES | VODAFONE",ES: DARK
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78486
-#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="ES: SUNDANCE TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SUNDANCE_TV.png" group-title="ES | VODAFONE",ES: SUNDANCE TV
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78487
-#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SOMOS.png" group-title="ES | VODAFONE",ES: SOMOS
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78488
-#EXTINF:-1 tvg-id="BOM" tvg-name="ES: BOM CINE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BOM_CINE.png" group-title="ES | VODAFONE",ES: BOM CINE
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78489
-#EXTINF:-1 tvg-id="SQUIRREL" tvg-name="ES: SQUIRREL" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SQUIRREL.png" group-title="ES | VODAFONE",ES: SQUIRREL
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78490
-#EXTINF:-1 tvg-id="SQUIRREL 2" tvg-name="ES: SQUIRREL 2" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SQUIRREL_2.png" group-title="ES | VODAFONE",ES: SQUIRREL 2
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78491
-#EXTINF:-1 tvg-id="Clan HD" tvg-name="ES: CLAN" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CLAN.png" group-title="ES | VODAFONE",ES: CLAN
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78492
-#EXTINF:-1 tvg-id="BOING" tvg-name="ES: BOING" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BOING.png" group-title="ES | VODAFONE",ES: BOING
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78493
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="ES: DISNEY JUNIOR" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DISNEY_JUNIOR.png" group-title="ES | VODAFONE",ES: DISNEY JUNIOR
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78494
-#EXTINF:-1 tvg-id="baby.movistarplus.es" tvg-name="ES: BABY TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BABY_TV.png" group-title="ES | VODAFONE",ES: BABY TV
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78495
-#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ODISEA.png" group-title="ES | VODAFONE",ES: ODISEA
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78496
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="ES: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DISCOVERY.png" group-title="ES | VODAFONE",ES: DISCOVERY
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78497
-#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES: HISTORIA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/HISTORIA.png" group-title="ES | VODAFONE",ES: HISTORIA
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78498
-#EXTINF:-1 tvg-id="natgeo.movistarplus.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/NATIONAL_GEOGRAPHIC_HD.png" group-title="ES | VODAFONE",ES: NATIONAL GEOGRAPHIC HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78499
-#EXTINF:-1 tvg-id="natgw.movistarplus.es" tvg-name="ES: NAT GEO WILD HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/NAT_GEO_WILD_HD.png" group-title="ES | VODAFONE",ES: NAT GEO WILD HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78500
-#EXTINF:-1 tvg-id="Escapa TV" tvg-name="ES: ESCAPA TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ESCAPA_TV.png" group-title="ES | VODAFONE",ES: ESCAPA TV
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78501
-#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="ES: AMC BREAK" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AMC_BREAK.png" group-title="ES | VODAFONE",ES: AMC BREAK
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78502
-#EXTINF:-1 tvg-id="" tvg-name="ES: BUENVIAJE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BUENVIAJE.png" group-title="ES | VODAFONE",ES: BUENVIAJE
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78503
-#EXTINF:-1 tvg-id="BBC TOP GEAR" tvg-name="ES: BBC TOP GEAR" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BBC_TOP_GEAR.png" group-title="ES | VODAFONE",ES: BBC TOP GEAR
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78504
-#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="ES: CANAL COCINA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_COCINA.png" group-title="ES | VODAFONE",ES: CANAL COCINA
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78505
-#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="ES: AMC CRIME" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AMC_CRIME.png" group-title="ES | VODAFONE",ES: AMC CRIME
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78506
-#EXTINF:-1 tvg-id="" tvg-name="ES: DECASA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DECASA.png" group-title="ES | VODAFONE",ES: DECASA
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78507
-#EXTINF:-1 tvg-id="" tvg-name="ES: MYZEN TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/MYZEN_TV.png" group-title="ES | VODAFONE",ES: MYZEN TV
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78508
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL GALERIA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_GALERIA.png" group-title="ES | VODAFONE",ES: CANAL GALERIA
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78509
-#EXTINF:-1 tvg-id="SOLMUSC" tvg-name="ES: SOL MUSICA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SOL_MUSICA.png" group-title="ES | VODAFONE",ES: SOL MUSICA
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78510
-#EXTINF:-1 tvg-id="fdfic.movistarplus.es" tvg-name="ES: FACTORIA DE FICCION" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/FACTORIA_DE_FICCION.png" group-title="ES | VODAFONE",ES: FACTORIA DE FICCION
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78511
-#EXTINF:-1 tvg-id="Neox HD" tvg-name="ES: NEOX" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/NEOX.png" group-title="ES | VODAFONE",ES: NEOX
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78512
-#EXTINF:-1 tvg-id="Nova HD" tvg-name="ES: NOVA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/NOVA.png" group-title="ES | VODAFONE",ES: NOVA
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78513
-#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES: DIVINITY" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DIVINITY.png" group-title="ES | VODAFONE",ES: DIVINITY
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78514
-#EXTINF:-1 tvg-id="Mega" tvg-name="ES: MEGA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/MEGA.png" group-title="ES | VODAFONE",ES: MEGA
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78515
-#EXTINF:-1 tvg-id="TRECE" tvg-name="ES: TRECE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TRECE.png" group-title="ES | VODAFONE",ES: TRECE
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78516
-#EXTINF:-1 tvg-id="ENERGY" tvg-name="ES: ENERGY" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ENERGY.png" group-title="ES | VODAFONE",ES: ENERGY
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78517
-#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES: ATRESERIES" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ATRESERIES.png" group-title="ES | VODAFONE",ES: ATRESERIES
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78518
-#EXTINF:-1 tvg-id="Be Mad HD" tvg-name="ES: BE MAD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BE_MAD.png" group-title="ES | VODAFONE",ES: BE MAD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78519
-#EXTINF:-1 tvg-id="DMAX" tvg-name="ES: DMAX" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DMAX.png" group-title="ES | VODAFONE",ES: DMAX
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78520
-#EXTINF:-1 tvg-id="DKISS" tvg-name="ES: DKISS" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DKISS.png" group-title="ES | VODAFONE",ES: DKISS
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78521
-#EXTINF:-1 tvg-id="TEN" tvg-name="ES: TEN" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TEN.png" group-title="ES | VODAFONE",ES: TEN
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78522
-#EXTINF:-1 tvg-id="24h.movistarplus.es" tvg-name="ES: 24 HORAS" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/24_HORAS.png" group-title="ES | VODAFONE",ES: 24 HORAS
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78523
-#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EL_TORO_TV.png" group-title="ES | VODAFONE",ES: EL TORO TV
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78524
-#EXTINF:-1 tvg-id="enw.movistarplus.es" tvg-name="ES: EURONEWS" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EURONEWS.png" group-title="ES | VODAFONE",ES: EURONEWS
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78525
-#EXTINF:-1 tvg-id="CNN Int." tvg-name="ES: CNN INTERNATIONAL EUROPE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CNN_INTERNATIONAL_EUROPE.png" group-title="ES | VODAFONE",ES: CNN INTERNATIONAL EUROPE
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78526
-#EXTINF:-1 tvg-id="CNBC Europe" tvg-name="ES: CNBC EUROPE HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CNBC_EUROPE_HD.png" group-title="ES | VODAFONE",ES: CNBC EUROPE HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78527
-#EXTINF:-1 tvg-id="Bloomberg Europe TV" tvg-name="ES: BLOOMBERG TV EUROPE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BLOOMBERG_TV_EUROPE.png" group-title="ES | VODAFONE",ES: BLOOMBERG TV EUROPE
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78528
-#EXTINF:-1 tvg-id="BBC World News Europe HD" tvg-name="ES: BBC WORLD NEWS EUROPE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BBC_WORLD_NEWS_EUROPE.png" group-title="ES | VODAFONE",ES: BBC WORLD NEWS EUROPE
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78529
-#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="ES: AL JAZEERA ENGLISH HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AL_JAZEERA_ENGLISH_HD.png" group-title="ES | VODAFONE",ES: AL JAZEERA ENGLISH HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78530
-#EXTINF:-1 tvg-id="cctv-e.movistarplus.es" tvg-name="ES: CGTN ESPANOL" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CGTN_ESPANOL.png" group-title="ES | VODAFONE",ES: CGTN ESPANOL
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78531
-#EXTINF:-1 tvg-id="France 24 (en Francais)" tvg-name="ES: FRANCE 24" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/FRANCE_24.png" group-title="ES | VODAFONE",ES: FRANCE 24
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78532
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL PARLAMENTO" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_PARLAMENTO.png" group-title="ES | VODAFONE",ES: CANAL PARLAMENTO
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78533
-#EXTINF:-1 tvg-id="EWTN" tvg-name="ES: EWTN" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EWTN.png" group-title="ES | VODAFONE",ES: EWTN
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78534
-#EXTINF:-1 tvg-id="inteua.movistarplus.es" tvg-name="ES: 1+1" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/1_1.png" group-title="ES | VODAFONE",ES: 1+1
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78535
-#EXTINF:-1 tvg-id="EUROSPORT 1 HD" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EUROSPORT_1_HD.png" group-title="ES | VODAFONE",ES: EUROSPORT 1 HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78536
-#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EUROSPORT_2.png" group-title="ES | VODAFONE",ES: EUROSPORT 2
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78537
-#EXTINF:-1 tvg-id="Teledeporte HD" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TELEDEPORTE.png" group-title="ES | VODAFONE",ES: TELEDEPORTE
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78538
-#EXTINF:-1 tvg-id="" tvg-name="ES: EXTREME SPORTS" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EXTREME_SPORTS.png" group-title="ES | VODAFONE",ES: EXTREME SPORTS
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78539
-#EXTINF:-1 tvg-id="tve.movistarplus.es" tvg-name="ES: CAZAVISIóN" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CAZAVISION.png" group-title="ES | VODAFONE",ES: CAZAVISIóN
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78540
-#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES: IBERALIA TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/IBERALIA_TV.png" group-title="ES | VODAFONE",ES: IBERALIA TV
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78541
-#EXTINF:-1 tvg-id="OneToro TV" tvg-name="ES: ONETORO" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ONETORO.png" group-title="ES | VODAFONE",ES: ONETORO
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78542
-#EXTINF:-1 tvg-id="" tvg-name="ES: SURF CHANNEL" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SURF_CHANNEL.png" group-title="ES | VODAFONE",ES: SURF CHANNEL
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78543
-#EXTINF:-1 tvg-id="gol.movistarplus.es" tvg-name="ES: GOL" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/GOL.png" group-title="ES | VODAFONE",ES: GOL
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78544
-#EXTINF:-1 tvg-id="Real Madrid TV HD" tvg-name="ES: REAL MADRID TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/REAL_MADRID_TV_HD.png" group-title="ES | VODAFONE",ES: REAL MADRID TV HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78545
-#EXTINF:-1 tvg-id="Betis TV" tvg-name="ES: BETIS TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/BETIS_TV.png" group-title="ES | VODAFONE",ES: BETIS TV
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78546
-#EXTINF:-1 tvg-id="" tvg-name="ES: SEVILLA FC TELEVISION" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/SEVILLA_FC_TELEVISION.png" group-title="ES | VODAFONE",ES: SEVILLA FC TELEVISION
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78547
-#EXTINF:-1 tvg-id="" tvg-name="ES: EL TRECE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/EL_TRECE.png" group-title="ES | VODAFONE",ES: EL TRECE
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78548
-#EXTINF:-1 tvg-id="" tvg-name="ES: VE PLUS" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/VE_PLUS.png" group-title="ES | VODAFONE",ES: VE PLUS
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78549
-#EXTINF:-1 tvg-id="" tvg-name="ES: CORAZON" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CORAZON.png" group-title="ES | VODAFONE",ES: CORAZON
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78550
-#EXTINF:-1 tvg-id="chile.movistarplus.es" tvg-name="ES: TV CHILE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TV_CHILE.png" group-title="ES | VODAFONE",ES: TV CHILE
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78551
-#EXTINF:-1 tvg-id="Cubavision Internacional" tvg-name="ES: CUBAVISION INTERNACIONAL HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CUBAVISION_INTERNACIONAL_HD.png" group-title="ES | VODAFONE",ES: CUBAVISION INTERNACIONAL HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78552
-#EXTINF:-1 tvg-id="" tvg-name="ES: DEUTSCHE WELLE" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/DEUTSCHE_WELLE.png" group-title="ES | VODAFONE",ES: DEUTSCHE WELLE
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78553
-#EXTINF:-1 tvg-id="TV5MONDE" tvg-name="ES: TV5 MONDE EUROPE HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TV5_MONDE_EUROPE_HD.png" group-title="ES | VODAFONE",ES: TV5 MONDE EUROPE HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78554
-#EXTINF:-1 tvg-id="" tvg-name="ES: AL AOULA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/AL_AOULA.png" group-title="ES | VODAFONE",ES: AL AOULA
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78555
-#EXTINF:-1 tvg-id="" tvg-name="ES: TVP" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TVP.png" group-title="ES | VODAFONE",ES: TVP
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78556
-#EXTINF:-1 tvg-id="" tvg-name="ES: PRO TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/PRO_TV.png" group-title="ES | VODAFONE",ES: PRO TV
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78557
-#EXTINF:-1 tvg-id="tvgal.movistarplus.es" tvg-name="ES: TV GALICIA HD" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TV_GALICIA_HD.png" group-title="ES | VODAFONE",ES: TV GALICIA HD
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78558
-#EXTINF:-1 tvg-id="TV3" tvg-name="ES: TV3" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/TV3.png" group-title="ES | VODAFONE",ES: TV3
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78559
-#EXTINF:-1 tvg-id="Andalucia TV" tvg-name="ES: ANDALUCIA TV" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/ANDALUCIA_TV.png" group-title="ES | VODAFONE",ES: ANDALUCIA TV
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78560
-#EXTINF:-1 tvg-id="Canal Extremadura" tvg-name="ES: CANAL EXTREMADURA" tvg-logo="https://docdog.top/logo/countries/new/es/vodafone/CANAL_EXTREMADURA.png" group-title="ES | VODAFONE",ES: CANAL EXTREMADURA
-http://sfnooesvp.top:8080/heir001/Hehe321@espro/78561
